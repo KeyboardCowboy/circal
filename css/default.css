@@ -29,7 +29,7 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000322}}
 article,
 aside,
 details,
@@ -48,7 +48,7 @@ summary {
 /**
  * Correct `inline-block` display not defined in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000332}}
 audio,
 canvas,
 video {
@@ -59,7 +59,7 @@ video {
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000341}}
 audio:not([controls]) {
   display: none;
   height: 0;
@@ -69,7 +69,7 @@ audio:not([controls]) {
  * Address `[hidden]` styling not present in IE 8/9.
  * Hide the `template` element in IE, Safari, and Firefox < 22.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000352}}
 [hidden],
 template {
   display: none;
@@ -83,7 +83,7 @@ template {
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000366}}
 html {
   font-family: sans-serif;
   /* 1 */
@@ -96,7 +96,7 @@ html {
 /**
  * Remove default margin.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000376}}
 body {
   margin: 0;
 }
@@ -107,7 +107,7 @@ body {
 /**
  * Remove the gray background color from active links in IE 10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000388}}
 a {
   background: transparent;
 }
@@ -115,7 +115,7 @@ a {
 /**
  * Address `outline` inconsistency between Chrome and other browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\0000396}}
 a:focus {
   outline: thin dotted;
 }
@@ -123,7 +123,7 @@ a:focus {
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003105}}
 a:active,
 a:hover {
   outline: 0;
@@ -136,7 +136,7 @@ a:hover {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003118}}
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -145,7 +145,7 @@ h1 {
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003127}}
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -153,7 +153,7 @@ abbr[title] {
 /**
  * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003136}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003136}}
 b,
 strong {
   font-weight: bold;
@@ -162,7 +162,7 @@ strong {
 /**
  * Address styling not present in Safari 5 and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003144}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003144}}
 dfn {
   font-style: italic;
 }
@@ -170,7 +170,7 @@ dfn {
 /**
  * Address differences between Firefox and other browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003152}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003152}}
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -180,7 +180,7 @@ hr {
 /**
  * Address styling not present in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003162}}
 mark {
   background: #ff0;
   color: #000;
@@ -189,7 +189,7 @@ mark {
 /**
  * Correct font family set oddly in Safari 5 and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003174}}
 code,
 kbd,
 pre,
@@ -201,7 +201,7 @@ samp {
 /**
  * Improve readability of pre-formatted text in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003183}}
 pre {
   white-space: pre-wrap;
 }
@@ -209,7 +209,7 @@ pre {
 /**
  * Set consistent quote types.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003191}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003191}}
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
@@ -217,7 +217,7 @@ q {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003199}}
 small {
   font-size: 80%;
 }
@@ -225,7 +225,7 @@ small {
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003208}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003208}}
 sub,
 sup {
   font-size: 75%;
@@ -234,12 +234,12 @@ sup {
   vertical-align: baseline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003215}}
 sup {
   top: -0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003219}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003219}}
 sub {
   bottom: -0.25em;
 }
@@ -250,7 +250,7 @@ sub {
 /**
  * Remove border when inside `a` element in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003231}}
 img {
   border: 0;
 }
@@ -258,7 +258,7 @@ img {
 /**
  * Correct overflow displayed oddly in IE 9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003239}}
 svg:not(:root) {
   overflow: hidden;
 }
@@ -269,7 +269,7 @@ svg:not(:root) {
 /**
  * Address margin not present in IE 8/9 and Safari 5.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003251}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003251}}
 figure {
   margin: 0;
 }
@@ -280,7 +280,7 @@ figure {
 /**
  * Define consistent border, margin, and padding.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003263}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003263}}
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -291,7 +291,7 @@ fieldset {
  * 1. Correct `color` not being inherited in IE 8/9.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003274}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003274}}
 legend {
   border: 0;
   /* 1 */
@@ -304,7 +304,7 @@ legend {
  * 2. Correct font size not being inherited in all browsers.
  * 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003288}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003288}}
 button,
 input,
 select,
@@ -321,7 +321,7 @@ textarea {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003300}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003300}}
 button,
 input {
   line-height: normal;
@@ -333,7 +333,7 @@ input {
  * Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+.
  * Correct `select` style inheritance in Firefox 4+ and Opera.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003312}}
 button,
 select {
   text-transform: none;
@@ -346,7 +346,7 @@ select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003327}}
 button,
 html input[type="button"],
 input[type="reset"],
@@ -360,7 +360,7 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003337}}
 button[disabled],
 html input[disabled] {
   cursor: default;
@@ -370,7 +370,7 @@ html input[disabled] {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003347}}
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -384,7 +384,7 @@ input[type="radio"] {
  * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
  *    (include `-moz` to future-proof).
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003358}}
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -398,7 +398,7 @@ input[type="search"] {
  * Remove inner padding and search cancel button in Safari 5 and Chrome
  * on OS X.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003371}}
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -407,7 +407,7 @@ input[type="search"]::-webkit-search-decoration {
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003380}}
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -418,7 +418,7 @@ input::-moz-focus-inner {
  * 1. Remove default vertical scrollbar in IE 8/9.
  * 2. Improve readability and alignment in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003390}}
 textarea {
   overflow: auto;
   /* 1 */
@@ -432,7 +432,7 @@ textarea {
 /**
  * Remove most spacing between table cells.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_normalize\.scss}line{font-family:\00003403}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_normalize\.scss}line{font-family:\00003403}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -472,12 +472,12 @@ table {
   unicode-range: U+270C;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003392}}
 body {
   word-wrap: break-word;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003396}}
 pre code {
   word-wrap: normal;
 }
@@ -491,12 +491,12 @@ pre code {
  * Extend this object into your custom stylesheet. Let the variables do the work.
  *
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003521}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003521}}
 html {
   font: normal 112.5%/1.65 serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003529}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003529}}
 body {
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
@@ -506,92 +506,92 @@ body {
   color: #444444;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003540}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003540}}
 small {
   font-size: 65%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003563}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003563}}
 h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
   line-height: 1;
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .tera {
   font-size: 117px;
   font-size: 6.5rem;
   margin-bottom: 0.25385rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .giga {
   font-size: 90px;
   font-size: 5rem;
   margin-bottom: 0.33rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .mega {
   font-size: 72px;
   font-size: 4rem;
   margin-bottom: 0.4125rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .alpha, h1 {
   font-size: 60px;
   font-size: 3.33333rem;
   margin-bottom: 0.495rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .beta, h2 {
   font-size: 48px;
   font-size: 2.66667rem;
   margin-bottom: 0.61875rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .gamma, h3 {
   font-size: 36px;
   font-size: 2rem;
   margin-bottom: 0.825rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .delta, h4 {
   font-size: 24px;
   font-size: 1.33333rem;
   margin-bottom: 1.2375rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .epsilon, h5 {
   font-size: 21px;
   font-size: 1.16667rem;
   margin-bottom: 1.41429rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003578}}
 .zeta, h6 {
   font-size: 18px;
   font-size: 1rem;
   margin-bottom: 1.65rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003618}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003618}}
 p {
   margin: auto auto 1.5em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003623}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003623}}
 p + p {
   text-indent: 1.5em;
   margin-top: -1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003648}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003648}}
 abbr,
 acronym,
 blockquote,
@@ -612,18 +612,18 @@ xmp {
   hyphens: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003656}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003656}}
 pre code {
   white-space: -moz-pre-wrap;
   white-space: pre-wrap;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003661}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003661}}
 pre {
   white-space: pre;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003665}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003665}}
 code {
   white-space: pre;
   font-family: monospace;
@@ -637,19 +637,19 @@ code {
  * Extend this object into your markup.
  *
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003681}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003681}}
 abbr {
   font-variant: small-caps;
   font-weight: 600;
   text-transform: lowercase;
   color: gray;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003683}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003683}}
 abbr[title]:hover {
   cursor: help;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003697}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003697}}
 h1,
 h2,
 h3,
@@ -659,13 +659,13 @@ h6 {
   color: #222222;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003707}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003707}}
 p + .drop-cap {
   text-indent: 0;
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003423}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003423}}
 .drop-cap:first-letter {
   float: left;
   margin: inherit;
@@ -689,23 +689,23 @@ p + .drop-cap {
  * Extend this object into your markup.
  *
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003462}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003462}}
 .lining dt,
 .lining dd {
   display: inline;
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003469}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003469}}
 .lining dt + dt:before,
 .lining dd + dt:before {
   content: "\A";
   white-space: pre;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003477}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003477}}
 .lining dd + dd:before {
   content: ", ";
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003481}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003481}}
 .lining dd:before {
   content: ": ";
   margin-left: -0.2rem;
@@ -722,22 +722,22 @@ p + .drop-cap {
  * Extend this object into your markup.
  *
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003489}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003489}}
 .dictionary-style dt {
   display: inline;
   counter-reset: definitions;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003493}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003493}}
 .dictionary-style dt + dt:before {
   content: ", ";
   margin-left: -0.2rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003499}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003499}}
 .dictionary-style dd {
   display: block;
   counter-increment: definitions;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003502}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003502}}
 .dictionary-style dd:before {
   content: counter(definitions,decimal) ". ";
 }
@@ -771,12 +771,12 @@ p + .drop-cap {
  * Extend this object into your custom stylesheet.
  *
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003791}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003791}}
 .pull-quote {
   position: relative;
   padding: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003364}}
 .pull-quote:before, .pull-quote:after {
   height: 1em;
   opacity: 0.5;
@@ -784,13 +784,13 @@ p + .drop-cap {
   font-size: 4em;
   color: #dc976e;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003371}}
 .pull-quote:before {
   content: '“';
   top: 0;
   left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_typeplate\.scss}line{font-family:\00003376}}
 .pull-quote:after {
   content: '”';
   bottom: 0;
@@ -827,94 +827,3277 @@ p + .drop-cap {
 /**
  * Common application/niche styles.  No mixins.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\000034}}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\000036}}
 body {
   margin: 0 auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\000038}}
 a {
   outline: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\0000311}}
 .icon-left {
   margin-right: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\0000312}}
 .icon-right {
   margin-left: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\0000313}}
 [class^="icon-"], [class*=" icon-"] {
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\0000318}}
 .fixed-bottom {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_base\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_base\.scss}line{font-family:\0000324}}
 .hide {
   height: 0;
   overflow: hidden;
   position: absolute;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\000034}}
 ol, ul {
   margin: 0 0 1em 2em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\000037}}
 ol li, ul li {
   padding: .25em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000312}}
 ol li {
   list-style: decimal outside none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000316}}
 ul li {
   list-style: disc outside none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000322}}
 ul.no-bullet li {
   list-style-type: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000323}}
 ul.disc li {
   list-style-type: disc;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000324}}
 ul.circle li {
   list-style-type: circle;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000325}}
 ul.square li {
   list-style-type: square;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000329}}
 ul.menu, ol.menu {
   margin-left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/base\/_orion\/styles\/_lists\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000332}}
 ul.menu li, ol.menu li {
   list-style: none;
   list-style-image: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000344}}
+nav.inline ul li {
+  display: inline-block;
+  list-style: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000351}}
+nav.inline ul li a {
+  display: inline-block;
+  margin-right: -5px;
+  line-height: 1.0em;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000365}}
+nav.inline.divided li a {
+  border-left: 1px solid;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_lists\.scss}line{font-family:\0000367}}
+nav.inline.divided li:first-child a {
+  border-left: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\000033}}
+html, body {
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\000036}}
+html #page, html #main, body #page, body #main {
+  height: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000311}}
+.disc {
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000316}}
+.day {
+  height: 1px;
+  background-color: blue;
+  width: 50vh;
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  -webkit-transform-origin: right;
+  -moz-transform-origin: right;
+  -ms-transform-origin: right;
+  -o-transform-origin: right;
+  transform-origin: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day1 {
+  -webkit-transform: rotate(0.9863deg);
+  -moz-transform: rotate(0.9863deg);
+  -ms-transform: rotate(0.9863deg);
+  -o-transform: rotate(0.9863deg);
+  transform: rotate(0.9863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day2 {
+  -webkit-transform: rotate(1.9726deg);
+  -moz-transform: rotate(1.9726deg);
+  -ms-transform: rotate(1.9726deg);
+  -o-transform: rotate(1.9726deg);
+  transform: rotate(1.9726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day3 {
+  -webkit-transform: rotate(2.9589deg);
+  -moz-transform: rotate(2.9589deg);
+  -ms-transform: rotate(2.9589deg);
+  -o-transform: rotate(2.9589deg);
+  transform: rotate(2.9589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day4 {
+  -webkit-transform: rotate(3.94521deg);
+  -moz-transform: rotate(3.94521deg);
+  -ms-transform: rotate(3.94521deg);
+  -o-transform: rotate(3.94521deg);
+  transform: rotate(3.94521deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day5 {
+  -webkit-transform: rotate(4.93151deg);
+  -moz-transform: rotate(4.93151deg);
+  -ms-transform: rotate(4.93151deg);
+  -o-transform: rotate(4.93151deg);
+  transform: rotate(4.93151deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day6 {
+  -webkit-transform: rotate(5.91781deg);
+  -moz-transform: rotate(5.91781deg);
+  -ms-transform: rotate(5.91781deg);
+  -o-transform: rotate(5.91781deg);
+  transform: rotate(5.91781deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day7 {
+  -webkit-transform: rotate(6.90411deg);
+  -moz-transform: rotate(6.90411deg);
+  -ms-transform: rotate(6.90411deg);
+  -o-transform: rotate(6.90411deg);
+  transform: rotate(6.90411deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day8 {
+  -webkit-transform: rotate(7.89041deg);
+  -moz-transform: rotate(7.89041deg);
+  -ms-transform: rotate(7.89041deg);
+  -o-transform: rotate(7.89041deg);
+  transform: rotate(7.89041deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day9 {
+  -webkit-transform: rotate(8.87671deg);
+  -moz-transform: rotate(8.87671deg);
+  -ms-transform: rotate(8.87671deg);
+  -o-transform: rotate(8.87671deg);
+  transform: rotate(8.87671deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day10 {
+  -webkit-transform: rotate(9.86301deg);
+  -moz-transform: rotate(9.86301deg);
+  -ms-transform: rotate(9.86301deg);
+  -o-transform: rotate(9.86301deg);
+  transform: rotate(9.86301deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day11 {
+  -webkit-transform: rotate(10.84932deg);
+  -moz-transform: rotate(10.84932deg);
+  -ms-transform: rotate(10.84932deg);
+  -o-transform: rotate(10.84932deg);
+  transform: rotate(10.84932deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day12 {
+  -webkit-transform: rotate(11.83562deg);
+  -moz-transform: rotate(11.83562deg);
+  -ms-transform: rotate(11.83562deg);
+  -o-transform: rotate(11.83562deg);
+  transform: rotate(11.83562deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day13 {
+  -webkit-transform: rotate(12.82192deg);
+  -moz-transform: rotate(12.82192deg);
+  -ms-transform: rotate(12.82192deg);
+  -o-transform: rotate(12.82192deg);
+  transform: rotate(12.82192deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day14 {
+  -webkit-transform: rotate(13.80822deg);
+  -moz-transform: rotate(13.80822deg);
+  -ms-transform: rotate(13.80822deg);
+  -o-transform: rotate(13.80822deg);
+  transform: rotate(13.80822deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day15 {
+  -webkit-transform: rotate(14.79452deg);
+  -moz-transform: rotate(14.79452deg);
+  -ms-transform: rotate(14.79452deg);
+  -o-transform: rotate(14.79452deg);
+  transform: rotate(14.79452deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day16 {
+  -webkit-transform: rotate(15.78082deg);
+  -moz-transform: rotate(15.78082deg);
+  -ms-transform: rotate(15.78082deg);
+  -o-transform: rotate(15.78082deg);
+  transform: rotate(15.78082deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day17 {
+  -webkit-transform: rotate(16.76712deg);
+  -moz-transform: rotate(16.76712deg);
+  -ms-transform: rotate(16.76712deg);
+  -o-transform: rotate(16.76712deg);
+  transform: rotate(16.76712deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day18 {
+  -webkit-transform: rotate(17.75342deg);
+  -moz-transform: rotate(17.75342deg);
+  -ms-transform: rotate(17.75342deg);
+  -o-transform: rotate(17.75342deg);
+  transform: rotate(17.75342deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day19 {
+  -webkit-transform: rotate(18.73973deg);
+  -moz-transform: rotate(18.73973deg);
+  -ms-transform: rotate(18.73973deg);
+  -o-transform: rotate(18.73973deg);
+  transform: rotate(18.73973deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day20 {
+  -webkit-transform: rotate(19.72603deg);
+  -moz-transform: rotate(19.72603deg);
+  -ms-transform: rotate(19.72603deg);
+  -o-transform: rotate(19.72603deg);
+  transform: rotate(19.72603deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day21 {
+  -webkit-transform: rotate(20.71233deg);
+  -moz-transform: rotate(20.71233deg);
+  -ms-transform: rotate(20.71233deg);
+  -o-transform: rotate(20.71233deg);
+  transform: rotate(20.71233deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day22 {
+  -webkit-transform: rotate(21.69863deg);
+  -moz-transform: rotate(21.69863deg);
+  -ms-transform: rotate(21.69863deg);
+  -o-transform: rotate(21.69863deg);
+  transform: rotate(21.69863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day23 {
+  -webkit-transform: rotate(22.68493deg);
+  -moz-transform: rotate(22.68493deg);
+  -ms-transform: rotate(22.68493deg);
+  -o-transform: rotate(22.68493deg);
+  transform: rotate(22.68493deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day24 {
+  -webkit-transform: rotate(23.67123deg);
+  -moz-transform: rotate(23.67123deg);
+  -ms-transform: rotate(23.67123deg);
+  -o-transform: rotate(23.67123deg);
+  transform: rotate(23.67123deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day25 {
+  -webkit-transform: rotate(24.65753deg);
+  -moz-transform: rotate(24.65753deg);
+  -ms-transform: rotate(24.65753deg);
+  -o-transform: rotate(24.65753deg);
+  transform: rotate(24.65753deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day26 {
+  -webkit-transform: rotate(25.64384deg);
+  -moz-transform: rotate(25.64384deg);
+  -ms-transform: rotate(25.64384deg);
+  -o-transform: rotate(25.64384deg);
+  transform: rotate(25.64384deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day27 {
+  -webkit-transform: rotate(26.63014deg);
+  -moz-transform: rotate(26.63014deg);
+  -ms-transform: rotate(26.63014deg);
+  -o-transform: rotate(26.63014deg);
+  transform: rotate(26.63014deg);
+  z-index: 9;
+  background-color: yellow;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day28 {
+  -webkit-transform: rotate(27.61644deg);
+  -moz-transform: rotate(27.61644deg);
+  -ms-transform: rotate(27.61644deg);
+  -o-transform: rotate(27.61644deg);
+  transform: rotate(27.61644deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day29 {
+  -webkit-transform: rotate(28.60274deg);
+  -moz-transform: rotate(28.60274deg);
+  -ms-transform: rotate(28.60274deg);
+  -o-transform: rotate(28.60274deg);
+  transform: rotate(28.60274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day30 {
+  -webkit-transform: rotate(29.58904deg);
+  -moz-transform: rotate(29.58904deg);
+  -ms-transform: rotate(29.58904deg);
+  -o-transform: rotate(29.58904deg);
+  transform: rotate(29.58904deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day31 {
+  -webkit-transform: rotate(30.57534deg);
+  -moz-transform: rotate(30.57534deg);
+  -ms-transform: rotate(30.57534deg);
+  -o-transform: rotate(30.57534deg);
+  transform: rotate(30.57534deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day32 {
+  -webkit-transform: rotate(31.56164deg);
+  -moz-transform: rotate(31.56164deg);
+  -ms-transform: rotate(31.56164deg);
+  -o-transform: rotate(31.56164deg);
+  transform: rotate(31.56164deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day33 {
+  -webkit-transform: rotate(32.54795deg);
+  -moz-transform: rotate(32.54795deg);
+  -ms-transform: rotate(32.54795deg);
+  -o-transform: rotate(32.54795deg);
+  transform: rotate(32.54795deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day34 {
+  -webkit-transform: rotate(33.53425deg);
+  -moz-transform: rotate(33.53425deg);
+  -ms-transform: rotate(33.53425deg);
+  -o-transform: rotate(33.53425deg);
+  transform: rotate(33.53425deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day35 {
+  -webkit-transform: rotate(34.52055deg);
+  -moz-transform: rotate(34.52055deg);
+  -ms-transform: rotate(34.52055deg);
+  -o-transform: rotate(34.52055deg);
+  transform: rotate(34.52055deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day36 {
+  -webkit-transform: rotate(35.50685deg);
+  -moz-transform: rotate(35.50685deg);
+  -ms-transform: rotate(35.50685deg);
+  -o-transform: rotate(35.50685deg);
+  transform: rotate(35.50685deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day37 {
+  -webkit-transform: rotate(36.49315deg);
+  -moz-transform: rotate(36.49315deg);
+  -ms-transform: rotate(36.49315deg);
+  -o-transform: rotate(36.49315deg);
+  transform: rotate(36.49315deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day38 {
+  -webkit-transform: rotate(37.47945deg);
+  -moz-transform: rotate(37.47945deg);
+  -ms-transform: rotate(37.47945deg);
+  -o-transform: rotate(37.47945deg);
+  transform: rotate(37.47945deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day39 {
+  -webkit-transform: rotate(38.46575deg);
+  -moz-transform: rotate(38.46575deg);
+  -ms-transform: rotate(38.46575deg);
+  -o-transform: rotate(38.46575deg);
+  transform: rotate(38.46575deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day40 {
+  -webkit-transform: rotate(39.45205deg);
+  -moz-transform: rotate(39.45205deg);
+  -ms-transform: rotate(39.45205deg);
+  -o-transform: rotate(39.45205deg);
+  transform: rotate(39.45205deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day41 {
+  -webkit-transform: rotate(40.43836deg);
+  -moz-transform: rotate(40.43836deg);
+  -ms-transform: rotate(40.43836deg);
+  -o-transform: rotate(40.43836deg);
+  transform: rotate(40.43836deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day42 {
+  -webkit-transform: rotate(41.42466deg);
+  -moz-transform: rotate(41.42466deg);
+  -ms-transform: rotate(41.42466deg);
+  -o-transform: rotate(41.42466deg);
+  transform: rotate(41.42466deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day43 {
+  -webkit-transform: rotate(42.41096deg);
+  -moz-transform: rotate(42.41096deg);
+  -ms-transform: rotate(42.41096deg);
+  -o-transform: rotate(42.41096deg);
+  transform: rotate(42.41096deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day44 {
+  -webkit-transform: rotate(43.39726deg);
+  -moz-transform: rotate(43.39726deg);
+  -ms-transform: rotate(43.39726deg);
+  -o-transform: rotate(43.39726deg);
+  transform: rotate(43.39726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day45 {
+  -webkit-transform: rotate(44.38356deg);
+  -moz-transform: rotate(44.38356deg);
+  -ms-transform: rotate(44.38356deg);
+  -o-transform: rotate(44.38356deg);
+  transform: rotate(44.38356deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day46 {
+  -webkit-transform: rotate(45.36986deg);
+  -moz-transform: rotate(45.36986deg);
+  -ms-transform: rotate(45.36986deg);
+  -o-transform: rotate(45.36986deg);
+  transform: rotate(45.36986deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day47 {
+  -webkit-transform: rotate(46.35616deg);
+  -moz-transform: rotate(46.35616deg);
+  -ms-transform: rotate(46.35616deg);
+  -o-transform: rotate(46.35616deg);
+  transform: rotate(46.35616deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day48 {
+  -webkit-transform: rotate(47.34247deg);
+  -moz-transform: rotate(47.34247deg);
+  -ms-transform: rotate(47.34247deg);
+  -o-transform: rotate(47.34247deg);
+  transform: rotate(47.34247deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day49 {
+  -webkit-transform: rotate(48.32877deg);
+  -moz-transform: rotate(48.32877deg);
+  -ms-transform: rotate(48.32877deg);
+  -o-transform: rotate(48.32877deg);
+  transform: rotate(48.32877deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day50 {
+  -webkit-transform: rotate(49.31507deg);
+  -moz-transform: rotate(49.31507deg);
+  -ms-transform: rotate(49.31507deg);
+  -o-transform: rotate(49.31507deg);
+  transform: rotate(49.31507deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day51 {
+  -webkit-transform: rotate(50.30137deg);
+  -moz-transform: rotate(50.30137deg);
+  -ms-transform: rotate(50.30137deg);
+  -o-transform: rotate(50.30137deg);
+  transform: rotate(50.30137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day52 {
+  -webkit-transform: rotate(51.28767deg);
+  -moz-transform: rotate(51.28767deg);
+  -ms-transform: rotate(51.28767deg);
+  -o-transform: rotate(51.28767deg);
+  transform: rotate(51.28767deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day53 {
+  -webkit-transform: rotate(52.27397deg);
+  -moz-transform: rotate(52.27397deg);
+  -ms-transform: rotate(52.27397deg);
+  -o-transform: rotate(52.27397deg);
+  transform: rotate(52.27397deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day54 {
+  -webkit-transform: rotate(53.26027deg);
+  -moz-transform: rotate(53.26027deg);
+  -ms-transform: rotate(53.26027deg);
+  -o-transform: rotate(53.26027deg);
+  transform: rotate(53.26027deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day55 {
+  -webkit-transform: rotate(54.24658deg);
+  -moz-transform: rotate(54.24658deg);
+  -ms-transform: rotate(54.24658deg);
+  -o-transform: rotate(54.24658deg);
+  transform: rotate(54.24658deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day56 {
+  -webkit-transform: rotate(55.23288deg);
+  -moz-transform: rotate(55.23288deg);
+  -ms-transform: rotate(55.23288deg);
+  -o-transform: rotate(55.23288deg);
+  transform: rotate(55.23288deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day57 {
+  -webkit-transform: rotate(56.21918deg);
+  -moz-transform: rotate(56.21918deg);
+  -ms-transform: rotate(56.21918deg);
+  -o-transform: rotate(56.21918deg);
+  transform: rotate(56.21918deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day58 {
+  -webkit-transform: rotate(57.20548deg);
+  -moz-transform: rotate(57.20548deg);
+  -ms-transform: rotate(57.20548deg);
+  -o-transform: rotate(57.20548deg);
+  transform: rotate(57.20548deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day59 {
+  -webkit-transform: rotate(58.19178deg);
+  -moz-transform: rotate(58.19178deg);
+  -ms-transform: rotate(58.19178deg);
+  -o-transform: rotate(58.19178deg);
+  transform: rotate(58.19178deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day60 {
+  -webkit-transform: rotate(59.17808deg);
+  -moz-transform: rotate(59.17808deg);
+  -ms-transform: rotate(59.17808deg);
+  -o-transform: rotate(59.17808deg);
+  transform: rotate(59.17808deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day61 {
+  -webkit-transform: rotate(60.16438deg);
+  -moz-transform: rotate(60.16438deg);
+  -ms-transform: rotate(60.16438deg);
+  -o-transform: rotate(60.16438deg);
+  transform: rotate(60.16438deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day62 {
+  -webkit-transform: rotate(61.15068deg);
+  -moz-transform: rotate(61.15068deg);
+  -ms-transform: rotate(61.15068deg);
+  -o-transform: rotate(61.15068deg);
+  transform: rotate(61.15068deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day63 {
+  -webkit-transform: rotate(62.13699deg);
+  -moz-transform: rotate(62.13699deg);
+  -ms-transform: rotate(62.13699deg);
+  -o-transform: rotate(62.13699deg);
+  transform: rotate(62.13699deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day64 {
+  -webkit-transform: rotate(63.12329deg);
+  -moz-transform: rotate(63.12329deg);
+  -ms-transform: rotate(63.12329deg);
+  -o-transform: rotate(63.12329deg);
+  transform: rotate(63.12329deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day65 {
+  -webkit-transform: rotate(64.10959deg);
+  -moz-transform: rotate(64.10959deg);
+  -ms-transform: rotate(64.10959deg);
+  -o-transform: rotate(64.10959deg);
+  transform: rotate(64.10959deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day66 {
+  -webkit-transform: rotate(65.09589deg);
+  -moz-transform: rotate(65.09589deg);
+  -ms-transform: rotate(65.09589deg);
+  -o-transform: rotate(65.09589deg);
+  transform: rotate(65.09589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day67 {
+  -webkit-transform: rotate(66.08219deg);
+  -moz-transform: rotate(66.08219deg);
+  -ms-transform: rotate(66.08219deg);
+  -o-transform: rotate(66.08219deg);
+  transform: rotate(66.08219deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day68 {
+  -webkit-transform: rotate(67.06849deg);
+  -moz-transform: rotate(67.06849deg);
+  -ms-transform: rotate(67.06849deg);
+  -o-transform: rotate(67.06849deg);
+  transform: rotate(67.06849deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day69 {
+  -webkit-transform: rotate(68.05479deg);
+  -moz-transform: rotate(68.05479deg);
+  -ms-transform: rotate(68.05479deg);
+  -o-transform: rotate(68.05479deg);
+  transform: rotate(68.05479deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day70 {
+  -webkit-transform: rotate(69.0411deg);
+  -moz-transform: rotate(69.0411deg);
+  -ms-transform: rotate(69.0411deg);
+  -o-transform: rotate(69.0411deg);
+  transform: rotate(69.0411deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day71 {
+  -webkit-transform: rotate(70.0274deg);
+  -moz-transform: rotate(70.0274deg);
+  -ms-transform: rotate(70.0274deg);
+  -o-transform: rotate(70.0274deg);
+  transform: rotate(70.0274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day72 {
+  -webkit-transform: rotate(71.0137deg);
+  -moz-transform: rotate(71.0137deg);
+  -ms-transform: rotate(71.0137deg);
+  -o-transform: rotate(71.0137deg);
+  transform: rotate(71.0137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day73 {
+  -webkit-transform: rotate(72deg);
+  -moz-transform: rotate(72deg);
+  -ms-transform: rotate(72deg);
+  -o-transform: rotate(72deg);
+  transform: rotate(72deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day74 {
+  -webkit-transform: rotate(72.9863deg);
+  -moz-transform: rotate(72.9863deg);
+  -ms-transform: rotate(72.9863deg);
+  -o-transform: rotate(72.9863deg);
+  transform: rotate(72.9863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day75 {
+  -webkit-transform: rotate(73.9726deg);
+  -moz-transform: rotate(73.9726deg);
+  -ms-transform: rotate(73.9726deg);
+  -o-transform: rotate(73.9726deg);
+  transform: rotate(73.9726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day76 {
+  -webkit-transform: rotate(74.9589deg);
+  -moz-transform: rotate(74.9589deg);
+  -ms-transform: rotate(74.9589deg);
+  -o-transform: rotate(74.9589deg);
+  transform: rotate(74.9589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day77 {
+  -webkit-transform: rotate(75.94521deg);
+  -moz-transform: rotate(75.94521deg);
+  -ms-transform: rotate(75.94521deg);
+  -o-transform: rotate(75.94521deg);
+  transform: rotate(75.94521deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day78 {
+  -webkit-transform: rotate(76.93151deg);
+  -moz-transform: rotate(76.93151deg);
+  -ms-transform: rotate(76.93151deg);
+  -o-transform: rotate(76.93151deg);
+  transform: rotate(76.93151deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day79 {
+  -webkit-transform: rotate(77.91781deg);
+  -moz-transform: rotate(77.91781deg);
+  -ms-transform: rotate(77.91781deg);
+  -o-transform: rotate(77.91781deg);
+  transform: rotate(77.91781deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day80 {
+  -webkit-transform: rotate(78.90411deg);
+  -moz-transform: rotate(78.90411deg);
+  -ms-transform: rotate(78.90411deg);
+  -o-transform: rotate(78.90411deg);
+  transform: rotate(78.90411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day81 {
+  -webkit-transform: rotate(79.89041deg);
+  -moz-transform: rotate(79.89041deg);
+  -ms-transform: rotate(79.89041deg);
+  -o-transform: rotate(79.89041deg);
+  transform: rotate(79.89041deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day82 {
+  -webkit-transform: rotate(80.87671deg);
+  -moz-transform: rotate(80.87671deg);
+  -ms-transform: rotate(80.87671deg);
+  -o-transform: rotate(80.87671deg);
+  transform: rotate(80.87671deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day83 {
+  -webkit-transform: rotate(81.86301deg);
+  -moz-transform: rotate(81.86301deg);
+  -ms-transform: rotate(81.86301deg);
+  -o-transform: rotate(81.86301deg);
+  transform: rotate(81.86301deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day84 {
+  -webkit-transform: rotate(82.84932deg);
+  -moz-transform: rotate(82.84932deg);
+  -ms-transform: rotate(82.84932deg);
+  -o-transform: rotate(82.84932deg);
+  transform: rotate(82.84932deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day85 {
+  -webkit-transform: rotate(83.83562deg);
+  -moz-transform: rotate(83.83562deg);
+  -ms-transform: rotate(83.83562deg);
+  -o-transform: rotate(83.83562deg);
+  transform: rotate(83.83562deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day86 {
+  -webkit-transform: rotate(84.82192deg);
+  -moz-transform: rotate(84.82192deg);
+  -ms-transform: rotate(84.82192deg);
+  -o-transform: rotate(84.82192deg);
+  transform: rotate(84.82192deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day87 {
+  -webkit-transform: rotate(85.80822deg);
+  -moz-transform: rotate(85.80822deg);
+  -ms-transform: rotate(85.80822deg);
+  -o-transform: rotate(85.80822deg);
+  transform: rotate(85.80822deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day88 {
+  -webkit-transform: rotate(86.79452deg);
+  -moz-transform: rotate(86.79452deg);
+  -ms-transform: rotate(86.79452deg);
+  -o-transform: rotate(86.79452deg);
+  transform: rotate(86.79452deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day89 {
+  -webkit-transform: rotate(87.78082deg);
+  -moz-transform: rotate(87.78082deg);
+  -ms-transform: rotate(87.78082deg);
+  -o-transform: rotate(87.78082deg);
+  transform: rotate(87.78082deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day90 {
+  -webkit-transform: rotate(88.76712deg);
+  -moz-transform: rotate(88.76712deg);
+  -ms-transform: rotate(88.76712deg);
+  -o-transform: rotate(88.76712deg);
+  transform: rotate(88.76712deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day91 {
+  -webkit-transform: rotate(89.75342deg);
+  -moz-transform: rotate(89.75342deg);
+  -ms-transform: rotate(89.75342deg);
+  -o-transform: rotate(89.75342deg);
+  transform: rotate(89.75342deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day92 {
+  -webkit-transform: rotate(90.73973deg);
+  -moz-transform: rotate(90.73973deg);
+  -ms-transform: rotate(90.73973deg);
+  -o-transform: rotate(90.73973deg);
+  transform: rotate(90.73973deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day93 {
+  -webkit-transform: rotate(91.72603deg);
+  -moz-transform: rotate(91.72603deg);
+  -ms-transform: rotate(91.72603deg);
+  -o-transform: rotate(91.72603deg);
+  transform: rotate(91.72603deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day94 {
+  -webkit-transform: rotate(92.71233deg);
+  -moz-transform: rotate(92.71233deg);
+  -ms-transform: rotate(92.71233deg);
+  -o-transform: rotate(92.71233deg);
+  transform: rotate(92.71233deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day95 {
+  -webkit-transform: rotate(93.69863deg);
+  -moz-transform: rotate(93.69863deg);
+  -ms-transform: rotate(93.69863deg);
+  -o-transform: rotate(93.69863deg);
+  transform: rotate(93.69863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day96 {
+  -webkit-transform: rotate(94.68493deg);
+  -moz-transform: rotate(94.68493deg);
+  -ms-transform: rotate(94.68493deg);
+  -o-transform: rotate(94.68493deg);
+  transform: rotate(94.68493deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day97 {
+  -webkit-transform: rotate(95.67123deg);
+  -moz-transform: rotate(95.67123deg);
+  -ms-transform: rotate(95.67123deg);
+  -o-transform: rotate(95.67123deg);
+  transform: rotate(95.67123deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day98 {
+  -webkit-transform: rotate(96.65753deg);
+  -moz-transform: rotate(96.65753deg);
+  -ms-transform: rotate(96.65753deg);
+  -o-transform: rotate(96.65753deg);
+  transform: rotate(96.65753deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day99 {
+  -webkit-transform: rotate(97.64384deg);
+  -moz-transform: rotate(97.64384deg);
+  -ms-transform: rotate(97.64384deg);
+  -o-transform: rotate(97.64384deg);
+  transform: rotate(97.64384deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day100 {
+  -webkit-transform: rotate(98.63014deg);
+  -moz-transform: rotate(98.63014deg);
+  -ms-transform: rotate(98.63014deg);
+  -o-transform: rotate(98.63014deg);
+  transform: rotate(98.63014deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day101 {
+  -webkit-transform: rotate(99.61644deg);
+  -moz-transform: rotate(99.61644deg);
+  -ms-transform: rotate(99.61644deg);
+  -o-transform: rotate(99.61644deg);
+  transform: rotate(99.61644deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day102 {
+  -webkit-transform: rotate(100.60274deg);
+  -moz-transform: rotate(100.60274deg);
+  -ms-transform: rotate(100.60274deg);
+  -o-transform: rotate(100.60274deg);
+  transform: rotate(100.60274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day103 {
+  -webkit-transform: rotate(101.58904deg);
+  -moz-transform: rotate(101.58904deg);
+  -ms-transform: rotate(101.58904deg);
+  -o-transform: rotate(101.58904deg);
+  transform: rotate(101.58904deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day104 {
+  -webkit-transform: rotate(102.57534deg);
+  -moz-transform: rotate(102.57534deg);
+  -ms-transform: rotate(102.57534deg);
+  -o-transform: rotate(102.57534deg);
+  transform: rotate(102.57534deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day105 {
+  -webkit-transform: rotate(103.56164deg);
+  -moz-transform: rotate(103.56164deg);
+  -ms-transform: rotate(103.56164deg);
+  -o-transform: rotate(103.56164deg);
+  transform: rotate(103.56164deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day106 {
+  -webkit-transform: rotate(104.54795deg);
+  -moz-transform: rotate(104.54795deg);
+  -ms-transform: rotate(104.54795deg);
+  -o-transform: rotate(104.54795deg);
+  transform: rotate(104.54795deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day107 {
+  -webkit-transform: rotate(105.53425deg);
+  -moz-transform: rotate(105.53425deg);
+  -ms-transform: rotate(105.53425deg);
+  -o-transform: rotate(105.53425deg);
+  transform: rotate(105.53425deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day108 {
+  -webkit-transform: rotate(106.52055deg);
+  -moz-transform: rotate(106.52055deg);
+  -ms-transform: rotate(106.52055deg);
+  -o-transform: rotate(106.52055deg);
+  transform: rotate(106.52055deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day109 {
+  -webkit-transform: rotate(107.50685deg);
+  -moz-transform: rotate(107.50685deg);
+  -ms-transform: rotate(107.50685deg);
+  -o-transform: rotate(107.50685deg);
+  transform: rotate(107.50685deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day110 {
+  -webkit-transform: rotate(108.49315deg);
+  -moz-transform: rotate(108.49315deg);
+  -ms-transform: rotate(108.49315deg);
+  -o-transform: rotate(108.49315deg);
+  transform: rotate(108.49315deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day111 {
+  -webkit-transform: rotate(109.47945deg);
+  -moz-transform: rotate(109.47945deg);
+  -ms-transform: rotate(109.47945deg);
+  -o-transform: rotate(109.47945deg);
+  transform: rotate(109.47945deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day112 {
+  -webkit-transform: rotate(110.46575deg);
+  -moz-transform: rotate(110.46575deg);
+  -ms-transform: rotate(110.46575deg);
+  -o-transform: rotate(110.46575deg);
+  transform: rotate(110.46575deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day113 {
+  -webkit-transform: rotate(111.45205deg);
+  -moz-transform: rotate(111.45205deg);
+  -ms-transform: rotate(111.45205deg);
+  -o-transform: rotate(111.45205deg);
+  transform: rotate(111.45205deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day114 {
+  -webkit-transform: rotate(112.43836deg);
+  -moz-transform: rotate(112.43836deg);
+  -ms-transform: rotate(112.43836deg);
+  -o-transform: rotate(112.43836deg);
+  transform: rotate(112.43836deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day115 {
+  -webkit-transform: rotate(113.42466deg);
+  -moz-transform: rotate(113.42466deg);
+  -ms-transform: rotate(113.42466deg);
+  -o-transform: rotate(113.42466deg);
+  transform: rotate(113.42466deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day116 {
+  -webkit-transform: rotate(114.41096deg);
+  -moz-transform: rotate(114.41096deg);
+  -ms-transform: rotate(114.41096deg);
+  -o-transform: rotate(114.41096deg);
+  transform: rotate(114.41096deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day117 {
+  -webkit-transform: rotate(115.39726deg);
+  -moz-transform: rotate(115.39726deg);
+  -ms-transform: rotate(115.39726deg);
+  -o-transform: rotate(115.39726deg);
+  transform: rotate(115.39726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day118 {
+  -webkit-transform: rotate(116.38356deg);
+  -moz-transform: rotate(116.38356deg);
+  -ms-transform: rotate(116.38356deg);
+  -o-transform: rotate(116.38356deg);
+  transform: rotate(116.38356deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day119 {
+  -webkit-transform: rotate(117.36986deg);
+  -moz-transform: rotate(117.36986deg);
+  -ms-transform: rotate(117.36986deg);
+  -o-transform: rotate(117.36986deg);
+  transform: rotate(117.36986deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day120 {
+  -webkit-transform: rotate(118.35616deg);
+  -moz-transform: rotate(118.35616deg);
+  -ms-transform: rotate(118.35616deg);
+  -o-transform: rotate(118.35616deg);
+  transform: rotate(118.35616deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day121 {
+  -webkit-transform: rotate(119.34247deg);
+  -moz-transform: rotate(119.34247deg);
+  -ms-transform: rotate(119.34247deg);
+  -o-transform: rotate(119.34247deg);
+  transform: rotate(119.34247deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day122 {
+  -webkit-transform: rotate(120.32877deg);
+  -moz-transform: rotate(120.32877deg);
+  -ms-transform: rotate(120.32877deg);
+  -o-transform: rotate(120.32877deg);
+  transform: rotate(120.32877deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day123 {
+  -webkit-transform: rotate(121.31507deg);
+  -moz-transform: rotate(121.31507deg);
+  -ms-transform: rotate(121.31507deg);
+  -o-transform: rotate(121.31507deg);
+  transform: rotate(121.31507deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day124 {
+  -webkit-transform: rotate(122.30137deg);
+  -moz-transform: rotate(122.30137deg);
+  -ms-transform: rotate(122.30137deg);
+  -o-transform: rotate(122.30137deg);
+  transform: rotate(122.30137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day125 {
+  -webkit-transform: rotate(123.28767deg);
+  -moz-transform: rotate(123.28767deg);
+  -ms-transform: rotate(123.28767deg);
+  -o-transform: rotate(123.28767deg);
+  transform: rotate(123.28767deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day126 {
+  -webkit-transform: rotate(124.27397deg);
+  -moz-transform: rotate(124.27397deg);
+  -ms-transform: rotate(124.27397deg);
+  -o-transform: rotate(124.27397deg);
+  transform: rotate(124.27397deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day127 {
+  -webkit-transform: rotate(125.26027deg);
+  -moz-transform: rotate(125.26027deg);
+  -ms-transform: rotate(125.26027deg);
+  -o-transform: rotate(125.26027deg);
+  transform: rotate(125.26027deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day128 {
+  -webkit-transform: rotate(126.24658deg);
+  -moz-transform: rotate(126.24658deg);
+  -ms-transform: rotate(126.24658deg);
+  -o-transform: rotate(126.24658deg);
+  transform: rotate(126.24658deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day129 {
+  -webkit-transform: rotate(127.23288deg);
+  -moz-transform: rotate(127.23288deg);
+  -ms-transform: rotate(127.23288deg);
+  -o-transform: rotate(127.23288deg);
+  transform: rotate(127.23288deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day130 {
+  -webkit-transform: rotate(128.21918deg);
+  -moz-transform: rotate(128.21918deg);
+  -ms-transform: rotate(128.21918deg);
+  -o-transform: rotate(128.21918deg);
+  transform: rotate(128.21918deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day131 {
+  -webkit-transform: rotate(129.20548deg);
+  -moz-transform: rotate(129.20548deg);
+  -ms-transform: rotate(129.20548deg);
+  -o-transform: rotate(129.20548deg);
+  transform: rotate(129.20548deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day132 {
+  -webkit-transform: rotate(130.19178deg);
+  -moz-transform: rotate(130.19178deg);
+  -ms-transform: rotate(130.19178deg);
+  -o-transform: rotate(130.19178deg);
+  transform: rotate(130.19178deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day133 {
+  -webkit-transform: rotate(131.17808deg);
+  -moz-transform: rotate(131.17808deg);
+  -ms-transform: rotate(131.17808deg);
+  -o-transform: rotate(131.17808deg);
+  transform: rotate(131.17808deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day134 {
+  -webkit-transform: rotate(132.16438deg);
+  -moz-transform: rotate(132.16438deg);
+  -ms-transform: rotate(132.16438deg);
+  -o-transform: rotate(132.16438deg);
+  transform: rotate(132.16438deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day135 {
+  -webkit-transform: rotate(133.15068deg);
+  -moz-transform: rotate(133.15068deg);
+  -ms-transform: rotate(133.15068deg);
+  -o-transform: rotate(133.15068deg);
+  transform: rotate(133.15068deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day136 {
+  -webkit-transform: rotate(134.13699deg);
+  -moz-transform: rotate(134.13699deg);
+  -ms-transform: rotate(134.13699deg);
+  -o-transform: rotate(134.13699deg);
+  transform: rotate(134.13699deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day137 {
+  -webkit-transform: rotate(135.12329deg);
+  -moz-transform: rotate(135.12329deg);
+  -ms-transform: rotate(135.12329deg);
+  -o-transform: rotate(135.12329deg);
+  transform: rotate(135.12329deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day138 {
+  -webkit-transform: rotate(136.10959deg);
+  -moz-transform: rotate(136.10959deg);
+  -ms-transform: rotate(136.10959deg);
+  -o-transform: rotate(136.10959deg);
+  transform: rotate(136.10959deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day139 {
+  -webkit-transform: rotate(137.09589deg);
+  -moz-transform: rotate(137.09589deg);
+  -ms-transform: rotate(137.09589deg);
+  -o-transform: rotate(137.09589deg);
+  transform: rotate(137.09589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day140 {
+  -webkit-transform: rotate(138.08219deg);
+  -moz-transform: rotate(138.08219deg);
+  -ms-transform: rotate(138.08219deg);
+  -o-transform: rotate(138.08219deg);
+  transform: rotate(138.08219deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day141 {
+  -webkit-transform: rotate(139.06849deg);
+  -moz-transform: rotate(139.06849deg);
+  -ms-transform: rotate(139.06849deg);
+  -o-transform: rotate(139.06849deg);
+  transform: rotate(139.06849deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day142 {
+  -webkit-transform: rotate(140.05479deg);
+  -moz-transform: rotate(140.05479deg);
+  -ms-transform: rotate(140.05479deg);
+  -o-transform: rotate(140.05479deg);
+  transform: rotate(140.05479deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day143 {
+  -webkit-transform: rotate(141.0411deg);
+  -moz-transform: rotate(141.0411deg);
+  -ms-transform: rotate(141.0411deg);
+  -o-transform: rotate(141.0411deg);
+  transform: rotate(141.0411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day144 {
+  -webkit-transform: rotate(142.0274deg);
+  -moz-transform: rotate(142.0274deg);
+  -ms-transform: rotate(142.0274deg);
+  -o-transform: rotate(142.0274deg);
+  transform: rotate(142.0274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day145 {
+  -webkit-transform: rotate(143.0137deg);
+  -moz-transform: rotate(143.0137deg);
+  -ms-transform: rotate(143.0137deg);
+  -o-transform: rotate(143.0137deg);
+  transform: rotate(143.0137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day146 {
+  -webkit-transform: rotate(144deg);
+  -moz-transform: rotate(144deg);
+  -ms-transform: rotate(144deg);
+  -o-transform: rotate(144deg);
+  transform: rotate(144deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day147 {
+  -webkit-transform: rotate(144.9863deg);
+  -moz-transform: rotate(144.9863deg);
+  -ms-transform: rotate(144.9863deg);
+  -o-transform: rotate(144.9863deg);
+  transform: rotate(144.9863deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day148 {
+  -webkit-transform: rotate(145.9726deg);
+  -moz-transform: rotate(145.9726deg);
+  -ms-transform: rotate(145.9726deg);
+  -o-transform: rotate(145.9726deg);
+  transform: rotate(145.9726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day149 {
+  -webkit-transform: rotate(146.9589deg);
+  -moz-transform: rotate(146.9589deg);
+  -ms-transform: rotate(146.9589deg);
+  -o-transform: rotate(146.9589deg);
+  transform: rotate(146.9589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day150 {
+  -webkit-transform: rotate(147.94521deg);
+  -moz-transform: rotate(147.94521deg);
+  -ms-transform: rotate(147.94521deg);
+  -o-transform: rotate(147.94521deg);
+  transform: rotate(147.94521deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day151 {
+  -webkit-transform: rotate(148.93151deg);
+  -moz-transform: rotate(148.93151deg);
+  -ms-transform: rotate(148.93151deg);
+  -o-transform: rotate(148.93151deg);
+  transform: rotate(148.93151deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day152 {
+  -webkit-transform: rotate(149.91781deg);
+  -moz-transform: rotate(149.91781deg);
+  -ms-transform: rotate(149.91781deg);
+  -o-transform: rotate(149.91781deg);
+  transform: rotate(149.91781deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day153 {
+  -webkit-transform: rotate(150.90411deg);
+  -moz-transform: rotate(150.90411deg);
+  -ms-transform: rotate(150.90411deg);
+  -o-transform: rotate(150.90411deg);
+  transform: rotate(150.90411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day154 {
+  -webkit-transform: rotate(151.89041deg);
+  -moz-transform: rotate(151.89041deg);
+  -ms-transform: rotate(151.89041deg);
+  -o-transform: rotate(151.89041deg);
+  transform: rotate(151.89041deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day155 {
+  -webkit-transform: rotate(152.87671deg);
+  -moz-transform: rotate(152.87671deg);
+  -ms-transform: rotate(152.87671deg);
+  -o-transform: rotate(152.87671deg);
+  transform: rotate(152.87671deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day156 {
+  -webkit-transform: rotate(153.86301deg);
+  -moz-transform: rotate(153.86301deg);
+  -ms-transform: rotate(153.86301deg);
+  -o-transform: rotate(153.86301deg);
+  transform: rotate(153.86301deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day157 {
+  -webkit-transform: rotate(154.84932deg);
+  -moz-transform: rotate(154.84932deg);
+  -ms-transform: rotate(154.84932deg);
+  -o-transform: rotate(154.84932deg);
+  transform: rotate(154.84932deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day158 {
+  -webkit-transform: rotate(155.83562deg);
+  -moz-transform: rotate(155.83562deg);
+  -ms-transform: rotate(155.83562deg);
+  -o-transform: rotate(155.83562deg);
+  transform: rotate(155.83562deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day159 {
+  -webkit-transform: rotate(156.82192deg);
+  -moz-transform: rotate(156.82192deg);
+  -ms-transform: rotate(156.82192deg);
+  -o-transform: rotate(156.82192deg);
+  transform: rotate(156.82192deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day160 {
+  -webkit-transform: rotate(157.80822deg);
+  -moz-transform: rotate(157.80822deg);
+  -ms-transform: rotate(157.80822deg);
+  -o-transform: rotate(157.80822deg);
+  transform: rotate(157.80822deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day161 {
+  -webkit-transform: rotate(158.79452deg);
+  -moz-transform: rotate(158.79452deg);
+  -ms-transform: rotate(158.79452deg);
+  -o-transform: rotate(158.79452deg);
+  transform: rotate(158.79452deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day162 {
+  -webkit-transform: rotate(159.78082deg);
+  -moz-transform: rotate(159.78082deg);
+  -ms-transform: rotate(159.78082deg);
+  -o-transform: rotate(159.78082deg);
+  transform: rotate(159.78082deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day163 {
+  -webkit-transform: rotate(160.76712deg);
+  -moz-transform: rotate(160.76712deg);
+  -ms-transform: rotate(160.76712deg);
+  -o-transform: rotate(160.76712deg);
+  transform: rotate(160.76712deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day164 {
+  -webkit-transform: rotate(161.75342deg);
+  -moz-transform: rotate(161.75342deg);
+  -ms-transform: rotate(161.75342deg);
+  -o-transform: rotate(161.75342deg);
+  transform: rotate(161.75342deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day165 {
+  -webkit-transform: rotate(162.73973deg);
+  -moz-transform: rotate(162.73973deg);
+  -ms-transform: rotate(162.73973deg);
+  -o-transform: rotate(162.73973deg);
+  transform: rotate(162.73973deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day166 {
+  -webkit-transform: rotate(163.72603deg);
+  -moz-transform: rotate(163.72603deg);
+  -ms-transform: rotate(163.72603deg);
+  -o-transform: rotate(163.72603deg);
+  transform: rotate(163.72603deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day167 {
+  -webkit-transform: rotate(164.71233deg);
+  -moz-transform: rotate(164.71233deg);
+  -ms-transform: rotate(164.71233deg);
+  -o-transform: rotate(164.71233deg);
+  transform: rotate(164.71233deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day168 {
+  -webkit-transform: rotate(165.69863deg);
+  -moz-transform: rotate(165.69863deg);
+  -ms-transform: rotate(165.69863deg);
+  -o-transform: rotate(165.69863deg);
+  transform: rotate(165.69863deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day169 {
+  -webkit-transform: rotate(166.68493deg);
+  -moz-transform: rotate(166.68493deg);
+  -ms-transform: rotate(166.68493deg);
+  -o-transform: rotate(166.68493deg);
+  transform: rotate(166.68493deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day170 {
+  -webkit-transform: rotate(167.67123deg);
+  -moz-transform: rotate(167.67123deg);
+  -ms-transform: rotate(167.67123deg);
+  -o-transform: rotate(167.67123deg);
+  transform: rotate(167.67123deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day171 {
+  -webkit-transform: rotate(168.65753deg);
+  -moz-transform: rotate(168.65753deg);
+  -ms-transform: rotate(168.65753deg);
+  -o-transform: rotate(168.65753deg);
+  transform: rotate(168.65753deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day172 {
+  -webkit-transform: rotate(169.64384deg);
+  -moz-transform: rotate(169.64384deg);
+  -ms-transform: rotate(169.64384deg);
+  -o-transform: rotate(169.64384deg);
+  transform: rotate(169.64384deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day173 {
+  -webkit-transform: rotate(170.63014deg);
+  -moz-transform: rotate(170.63014deg);
+  -ms-transform: rotate(170.63014deg);
+  -o-transform: rotate(170.63014deg);
+  transform: rotate(170.63014deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day174 {
+  -webkit-transform: rotate(171.61644deg);
+  -moz-transform: rotate(171.61644deg);
+  -ms-transform: rotate(171.61644deg);
+  -o-transform: rotate(171.61644deg);
+  transform: rotate(171.61644deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day175 {
+  -webkit-transform: rotate(172.60274deg);
+  -moz-transform: rotate(172.60274deg);
+  -ms-transform: rotate(172.60274deg);
+  -o-transform: rotate(172.60274deg);
+  transform: rotate(172.60274deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day176 {
+  -webkit-transform: rotate(173.58904deg);
+  -moz-transform: rotate(173.58904deg);
+  -ms-transform: rotate(173.58904deg);
+  -o-transform: rotate(173.58904deg);
+  transform: rotate(173.58904deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day177 {
+  -webkit-transform: rotate(174.57534deg);
+  -moz-transform: rotate(174.57534deg);
+  -ms-transform: rotate(174.57534deg);
+  -o-transform: rotate(174.57534deg);
+  transform: rotate(174.57534deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day178 {
+  -webkit-transform: rotate(175.56164deg);
+  -moz-transform: rotate(175.56164deg);
+  -ms-transform: rotate(175.56164deg);
+  -o-transform: rotate(175.56164deg);
+  transform: rotate(175.56164deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day179 {
+  -webkit-transform: rotate(176.54795deg);
+  -moz-transform: rotate(176.54795deg);
+  -ms-transform: rotate(176.54795deg);
+  -o-transform: rotate(176.54795deg);
+  transform: rotate(176.54795deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day180 {
+  -webkit-transform: rotate(177.53425deg);
+  -moz-transform: rotate(177.53425deg);
+  -ms-transform: rotate(177.53425deg);
+  -o-transform: rotate(177.53425deg);
+  transform: rotate(177.53425deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day181 {
+  -webkit-transform: rotate(178.52055deg);
+  -moz-transform: rotate(178.52055deg);
+  -ms-transform: rotate(178.52055deg);
+  -o-transform: rotate(178.52055deg);
+  transform: rotate(178.52055deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day182 {
+  -webkit-transform: rotate(179.50685deg);
+  -moz-transform: rotate(179.50685deg);
+  -ms-transform: rotate(179.50685deg);
+  -o-transform: rotate(179.50685deg);
+  transform: rotate(179.50685deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day183 {
+  -webkit-transform: rotate(180.49315deg);
+  -moz-transform: rotate(180.49315deg);
+  -ms-transform: rotate(180.49315deg);
+  -o-transform: rotate(180.49315deg);
+  transform: rotate(180.49315deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day184 {
+  -webkit-transform: rotate(181.47945deg);
+  -moz-transform: rotate(181.47945deg);
+  -ms-transform: rotate(181.47945deg);
+  -o-transform: rotate(181.47945deg);
+  transform: rotate(181.47945deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day185 {
+  -webkit-transform: rotate(182.46575deg);
+  -moz-transform: rotate(182.46575deg);
+  -ms-transform: rotate(182.46575deg);
+  -o-transform: rotate(182.46575deg);
+  transform: rotate(182.46575deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day186 {
+  -webkit-transform: rotate(183.45205deg);
+  -moz-transform: rotate(183.45205deg);
+  -ms-transform: rotate(183.45205deg);
+  -o-transform: rotate(183.45205deg);
+  transform: rotate(183.45205deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day187 {
+  -webkit-transform: rotate(184.43836deg);
+  -moz-transform: rotate(184.43836deg);
+  -ms-transform: rotate(184.43836deg);
+  -o-transform: rotate(184.43836deg);
+  transform: rotate(184.43836deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day188 {
+  -webkit-transform: rotate(185.42466deg);
+  -moz-transform: rotate(185.42466deg);
+  -ms-transform: rotate(185.42466deg);
+  -o-transform: rotate(185.42466deg);
+  transform: rotate(185.42466deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day189 {
+  -webkit-transform: rotate(186.41096deg);
+  -moz-transform: rotate(186.41096deg);
+  -ms-transform: rotate(186.41096deg);
+  -o-transform: rotate(186.41096deg);
+  transform: rotate(186.41096deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day190 {
+  -webkit-transform: rotate(187.39726deg);
+  -moz-transform: rotate(187.39726deg);
+  -ms-transform: rotate(187.39726deg);
+  -o-transform: rotate(187.39726deg);
+  transform: rotate(187.39726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day191 {
+  -webkit-transform: rotate(188.38356deg);
+  -moz-transform: rotate(188.38356deg);
+  -ms-transform: rotate(188.38356deg);
+  -o-transform: rotate(188.38356deg);
+  transform: rotate(188.38356deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day192 {
+  -webkit-transform: rotate(189.36986deg);
+  -moz-transform: rotate(189.36986deg);
+  -ms-transform: rotate(189.36986deg);
+  -o-transform: rotate(189.36986deg);
+  transform: rotate(189.36986deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day193 {
+  -webkit-transform: rotate(190.35616deg);
+  -moz-transform: rotate(190.35616deg);
+  -ms-transform: rotate(190.35616deg);
+  -o-transform: rotate(190.35616deg);
+  transform: rotate(190.35616deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day194 {
+  -webkit-transform: rotate(191.34247deg);
+  -moz-transform: rotate(191.34247deg);
+  -ms-transform: rotate(191.34247deg);
+  -o-transform: rotate(191.34247deg);
+  transform: rotate(191.34247deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day195 {
+  -webkit-transform: rotate(192.32877deg);
+  -moz-transform: rotate(192.32877deg);
+  -ms-transform: rotate(192.32877deg);
+  -o-transform: rotate(192.32877deg);
+  transform: rotate(192.32877deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day196 {
+  -webkit-transform: rotate(193.31507deg);
+  -moz-transform: rotate(193.31507deg);
+  -ms-transform: rotate(193.31507deg);
+  -o-transform: rotate(193.31507deg);
+  transform: rotate(193.31507deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day197 {
+  -webkit-transform: rotate(194.30137deg);
+  -moz-transform: rotate(194.30137deg);
+  -ms-transform: rotate(194.30137deg);
+  -o-transform: rotate(194.30137deg);
+  transform: rotate(194.30137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day198 {
+  -webkit-transform: rotate(195.28767deg);
+  -moz-transform: rotate(195.28767deg);
+  -ms-transform: rotate(195.28767deg);
+  -o-transform: rotate(195.28767deg);
+  transform: rotate(195.28767deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day199 {
+  -webkit-transform: rotate(196.27397deg);
+  -moz-transform: rotate(196.27397deg);
+  -ms-transform: rotate(196.27397deg);
+  -o-transform: rotate(196.27397deg);
+  transform: rotate(196.27397deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day200 {
+  -webkit-transform: rotate(197.26027deg);
+  -moz-transform: rotate(197.26027deg);
+  -ms-transform: rotate(197.26027deg);
+  -o-transform: rotate(197.26027deg);
+  transform: rotate(197.26027deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day201 {
+  -webkit-transform: rotate(198.24658deg);
+  -moz-transform: rotate(198.24658deg);
+  -ms-transform: rotate(198.24658deg);
+  -o-transform: rotate(198.24658deg);
+  transform: rotate(198.24658deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day202 {
+  -webkit-transform: rotate(199.23288deg);
+  -moz-transform: rotate(199.23288deg);
+  -ms-transform: rotate(199.23288deg);
+  -o-transform: rotate(199.23288deg);
+  transform: rotate(199.23288deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day203 {
+  -webkit-transform: rotate(200.21918deg);
+  -moz-transform: rotate(200.21918deg);
+  -ms-transform: rotate(200.21918deg);
+  -o-transform: rotate(200.21918deg);
+  transform: rotate(200.21918deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day204 {
+  -webkit-transform: rotate(201.20548deg);
+  -moz-transform: rotate(201.20548deg);
+  -ms-transform: rotate(201.20548deg);
+  -o-transform: rotate(201.20548deg);
+  transform: rotate(201.20548deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day205 {
+  -webkit-transform: rotate(202.19178deg);
+  -moz-transform: rotate(202.19178deg);
+  -ms-transform: rotate(202.19178deg);
+  -o-transform: rotate(202.19178deg);
+  transform: rotate(202.19178deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day206 {
+  -webkit-transform: rotate(203.17808deg);
+  -moz-transform: rotate(203.17808deg);
+  -ms-transform: rotate(203.17808deg);
+  -o-transform: rotate(203.17808deg);
+  transform: rotate(203.17808deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day207 {
+  -webkit-transform: rotate(204.16438deg);
+  -moz-transform: rotate(204.16438deg);
+  -ms-transform: rotate(204.16438deg);
+  -o-transform: rotate(204.16438deg);
+  transform: rotate(204.16438deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day208 {
+  -webkit-transform: rotate(205.15068deg);
+  -moz-transform: rotate(205.15068deg);
+  -ms-transform: rotate(205.15068deg);
+  -o-transform: rotate(205.15068deg);
+  transform: rotate(205.15068deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day209 {
+  -webkit-transform: rotate(206.13699deg);
+  -moz-transform: rotate(206.13699deg);
+  -ms-transform: rotate(206.13699deg);
+  -o-transform: rotate(206.13699deg);
+  transform: rotate(206.13699deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day210 {
+  -webkit-transform: rotate(207.12329deg);
+  -moz-transform: rotate(207.12329deg);
+  -ms-transform: rotate(207.12329deg);
+  -o-transform: rotate(207.12329deg);
+  transform: rotate(207.12329deg);
+  z-index: 9;
+  background-color: cyan;
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day211 {
+  -webkit-transform: rotate(208.10959deg);
+  -moz-transform: rotate(208.10959deg);
+  -ms-transform: rotate(208.10959deg);
+  -o-transform: rotate(208.10959deg);
+  transform: rotate(208.10959deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day212 {
+  -webkit-transform: rotate(209.09589deg);
+  -moz-transform: rotate(209.09589deg);
+  -ms-transform: rotate(209.09589deg);
+  -o-transform: rotate(209.09589deg);
+  transform: rotate(209.09589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day213 {
+  -webkit-transform: rotate(210.08219deg);
+  -moz-transform: rotate(210.08219deg);
+  -ms-transform: rotate(210.08219deg);
+  -o-transform: rotate(210.08219deg);
+  transform: rotate(210.08219deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day214 {
+  -webkit-transform: rotate(211.06849deg);
+  -moz-transform: rotate(211.06849deg);
+  -ms-transform: rotate(211.06849deg);
+  -o-transform: rotate(211.06849deg);
+  transform: rotate(211.06849deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day215 {
+  -webkit-transform: rotate(212.05479deg);
+  -moz-transform: rotate(212.05479deg);
+  -ms-transform: rotate(212.05479deg);
+  -o-transform: rotate(212.05479deg);
+  transform: rotate(212.05479deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day216 {
+  -webkit-transform: rotate(213.0411deg);
+  -moz-transform: rotate(213.0411deg);
+  -ms-transform: rotate(213.0411deg);
+  -o-transform: rotate(213.0411deg);
+  transform: rotate(213.0411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day217 {
+  -webkit-transform: rotate(214.0274deg);
+  -moz-transform: rotate(214.0274deg);
+  -ms-transform: rotate(214.0274deg);
+  -o-transform: rotate(214.0274deg);
+  transform: rotate(214.0274deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day218 {
+  -webkit-transform: rotate(215.0137deg);
+  -moz-transform: rotate(215.0137deg);
+  -ms-transform: rotate(215.0137deg);
+  -o-transform: rotate(215.0137deg);
+  transform: rotate(215.0137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day219 {
+  -webkit-transform: rotate(216deg);
+  -moz-transform: rotate(216deg);
+  -ms-transform: rotate(216deg);
+  -o-transform: rotate(216deg);
+  transform: rotate(216deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day220 {
+  -webkit-transform: rotate(216.9863deg);
+  -moz-transform: rotate(216.9863deg);
+  -ms-transform: rotate(216.9863deg);
+  -o-transform: rotate(216.9863deg);
+  transform: rotate(216.9863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day221 {
+  -webkit-transform: rotate(217.9726deg);
+  -moz-transform: rotate(217.9726deg);
+  -ms-transform: rotate(217.9726deg);
+  -o-transform: rotate(217.9726deg);
+  transform: rotate(217.9726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day222 {
+  -webkit-transform: rotate(218.9589deg);
+  -moz-transform: rotate(218.9589deg);
+  -ms-transform: rotate(218.9589deg);
+  -o-transform: rotate(218.9589deg);
+  transform: rotate(218.9589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day223 {
+  -webkit-transform: rotate(219.94521deg);
+  -moz-transform: rotate(219.94521deg);
+  -ms-transform: rotate(219.94521deg);
+  -o-transform: rotate(219.94521deg);
+  transform: rotate(219.94521deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day224 {
+  -webkit-transform: rotate(220.93151deg);
+  -moz-transform: rotate(220.93151deg);
+  -ms-transform: rotate(220.93151deg);
+  -o-transform: rotate(220.93151deg);
+  transform: rotate(220.93151deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day225 {
+  -webkit-transform: rotate(221.91781deg);
+  -moz-transform: rotate(221.91781deg);
+  -ms-transform: rotate(221.91781deg);
+  -o-transform: rotate(221.91781deg);
+  transform: rotate(221.91781deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day226 {
+  -webkit-transform: rotate(222.90411deg);
+  -moz-transform: rotate(222.90411deg);
+  -ms-transform: rotate(222.90411deg);
+  -o-transform: rotate(222.90411deg);
+  transform: rotate(222.90411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day227 {
+  -webkit-transform: rotate(223.89041deg);
+  -moz-transform: rotate(223.89041deg);
+  -ms-transform: rotate(223.89041deg);
+  -o-transform: rotate(223.89041deg);
+  transform: rotate(223.89041deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day228 {
+  -webkit-transform: rotate(224.87671deg);
+  -moz-transform: rotate(224.87671deg);
+  -ms-transform: rotate(224.87671deg);
+  -o-transform: rotate(224.87671deg);
+  transform: rotate(224.87671deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day229 {
+  -webkit-transform: rotate(225.86301deg);
+  -moz-transform: rotate(225.86301deg);
+  -ms-transform: rotate(225.86301deg);
+  -o-transform: rotate(225.86301deg);
+  transform: rotate(225.86301deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day230 {
+  -webkit-transform: rotate(226.84932deg);
+  -moz-transform: rotate(226.84932deg);
+  -ms-transform: rotate(226.84932deg);
+  -o-transform: rotate(226.84932deg);
+  transform: rotate(226.84932deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day231 {
+  -webkit-transform: rotate(227.83562deg);
+  -moz-transform: rotate(227.83562deg);
+  -ms-transform: rotate(227.83562deg);
+  -o-transform: rotate(227.83562deg);
+  transform: rotate(227.83562deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day232 {
+  -webkit-transform: rotate(228.82192deg);
+  -moz-transform: rotate(228.82192deg);
+  -ms-transform: rotate(228.82192deg);
+  -o-transform: rotate(228.82192deg);
+  transform: rotate(228.82192deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day233 {
+  -webkit-transform: rotate(229.80822deg);
+  -moz-transform: rotate(229.80822deg);
+  -ms-transform: rotate(229.80822deg);
+  -o-transform: rotate(229.80822deg);
+  transform: rotate(229.80822deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day234 {
+  -webkit-transform: rotate(230.79452deg);
+  -moz-transform: rotate(230.79452deg);
+  -ms-transform: rotate(230.79452deg);
+  -o-transform: rotate(230.79452deg);
+  transform: rotate(230.79452deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day235 {
+  -webkit-transform: rotate(231.78082deg);
+  -moz-transform: rotate(231.78082deg);
+  -ms-transform: rotate(231.78082deg);
+  -o-transform: rotate(231.78082deg);
+  transform: rotate(231.78082deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day236 {
+  -webkit-transform: rotate(232.76712deg);
+  -moz-transform: rotate(232.76712deg);
+  -ms-transform: rotate(232.76712deg);
+  -o-transform: rotate(232.76712deg);
+  transform: rotate(232.76712deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day237 {
+  -webkit-transform: rotate(233.75342deg);
+  -moz-transform: rotate(233.75342deg);
+  -ms-transform: rotate(233.75342deg);
+  -o-transform: rotate(233.75342deg);
+  transform: rotate(233.75342deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day238 {
+  -webkit-transform: rotate(234.73973deg);
+  -moz-transform: rotate(234.73973deg);
+  -ms-transform: rotate(234.73973deg);
+  -o-transform: rotate(234.73973deg);
+  transform: rotate(234.73973deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day239 {
+  -webkit-transform: rotate(235.72603deg);
+  -moz-transform: rotate(235.72603deg);
+  -ms-transform: rotate(235.72603deg);
+  -o-transform: rotate(235.72603deg);
+  transform: rotate(235.72603deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day240 {
+  -webkit-transform: rotate(236.71233deg);
+  -moz-transform: rotate(236.71233deg);
+  -ms-transform: rotate(236.71233deg);
+  -o-transform: rotate(236.71233deg);
+  transform: rotate(236.71233deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day241 {
+  -webkit-transform: rotate(237.69863deg);
+  -moz-transform: rotate(237.69863deg);
+  -ms-transform: rotate(237.69863deg);
+  -o-transform: rotate(237.69863deg);
+  transform: rotate(237.69863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day242 {
+  -webkit-transform: rotate(238.68493deg);
+  -moz-transform: rotate(238.68493deg);
+  -ms-transform: rotate(238.68493deg);
+  -o-transform: rotate(238.68493deg);
+  transform: rotate(238.68493deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day243 {
+  -webkit-transform: rotate(239.67123deg);
+  -moz-transform: rotate(239.67123deg);
+  -ms-transform: rotate(239.67123deg);
+  -o-transform: rotate(239.67123deg);
+  transform: rotate(239.67123deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day244 {
+  -webkit-transform: rotate(240.65753deg);
+  -moz-transform: rotate(240.65753deg);
+  -ms-transform: rotate(240.65753deg);
+  -o-transform: rotate(240.65753deg);
+  transform: rotate(240.65753deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day245 {
+  -webkit-transform: rotate(241.64384deg);
+  -moz-transform: rotate(241.64384deg);
+  -ms-transform: rotate(241.64384deg);
+  -o-transform: rotate(241.64384deg);
+  transform: rotate(241.64384deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day246 {
+  -webkit-transform: rotate(242.63014deg);
+  -moz-transform: rotate(242.63014deg);
+  -ms-transform: rotate(242.63014deg);
+  -o-transform: rotate(242.63014deg);
+  transform: rotate(242.63014deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day247 {
+  -webkit-transform: rotate(243.61644deg);
+  -moz-transform: rotate(243.61644deg);
+  -ms-transform: rotate(243.61644deg);
+  -o-transform: rotate(243.61644deg);
+  transform: rotate(243.61644deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day248 {
+  -webkit-transform: rotate(244.60274deg);
+  -moz-transform: rotate(244.60274deg);
+  -ms-transform: rotate(244.60274deg);
+  -o-transform: rotate(244.60274deg);
+  transform: rotate(244.60274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day249 {
+  -webkit-transform: rotate(245.58904deg);
+  -moz-transform: rotate(245.58904deg);
+  -ms-transform: rotate(245.58904deg);
+  -o-transform: rotate(245.58904deg);
+  transform: rotate(245.58904deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day250 {
+  -webkit-transform: rotate(246.57534deg);
+  -moz-transform: rotate(246.57534deg);
+  -ms-transform: rotate(246.57534deg);
+  -o-transform: rotate(246.57534deg);
+  transform: rotate(246.57534deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day251 {
+  -webkit-transform: rotate(247.56164deg);
+  -moz-transform: rotate(247.56164deg);
+  -ms-transform: rotate(247.56164deg);
+  -o-transform: rotate(247.56164deg);
+  transform: rotate(247.56164deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day252 {
+  -webkit-transform: rotate(248.54795deg);
+  -moz-transform: rotate(248.54795deg);
+  -ms-transform: rotate(248.54795deg);
+  -o-transform: rotate(248.54795deg);
+  transform: rotate(248.54795deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day253 {
+  -webkit-transform: rotate(249.53425deg);
+  -moz-transform: rotate(249.53425deg);
+  -ms-transform: rotate(249.53425deg);
+  -o-transform: rotate(249.53425deg);
+  transform: rotate(249.53425deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day254 {
+  -webkit-transform: rotate(250.52055deg);
+  -moz-transform: rotate(250.52055deg);
+  -ms-transform: rotate(250.52055deg);
+  -o-transform: rotate(250.52055deg);
+  transform: rotate(250.52055deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day255 {
+  -webkit-transform: rotate(251.50685deg);
+  -moz-transform: rotate(251.50685deg);
+  -ms-transform: rotate(251.50685deg);
+  -o-transform: rotate(251.50685deg);
+  transform: rotate(251.50685deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day256 {
+  -webkit-transform: rotate(252.49315deg);
+  -moz-transform: rotate(252.49315deg);
+  -ms-transform: rotate(252.49315deg);
+  -o-transform: rotate(252.49315deg);
+  transform: rotate(252.49315deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day257 {
+  -webkit-transform: rotate(253.47945deg);
+  -moz-transform: rotate(253.47945deg);
+  -ms-transform: rotate(253.47945deg);
+  -o-transform: rotate(253.47945deg);
+  transform: rotate(253.47945deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day258 {
+  -webkit-transform: rotate(254.46575deg);
+  -moz-transform: rotate(254.46575deg);
+  -ms-transform: rotate(254.46575deg);
+  -o-transform: rotate(254.46575deg);
+  transform: rotate(254.46575deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day259 {
+  -webkit-transform: rotate(255.45205deg);
+  -moz-transform: rotate(255.45205deg);
+  -ms-transform: rotate(255.45205deg);
+  -o-transform: rotate(255.45205deg);
+  transform: rotate(255.45205deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day260 {
+  -webkit-transform: rotate(256.43836deg);
+  -moz-transform: rotate(256.43836deg);
+  -ms-transform: rotate(256.43836deg);
+  -o-transform: rotate(256.43836deg);
+  transform: rotate(256.43836deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day261 {
+  -webkit-transform: rotate(257.42466deg);
+  -moz-transform: rotate(257.42466deg);
+  -ms-transform: rotate(257.42466deg);
+  -o-transform: rotate(257.42466deg);
+  transform: rotate(257.42466deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day262 {
+  -webkit-transform: rotate(258.41096deg);
+  -moz-transform: rotate(258.41096deg);
+  -ms-transform: rotate(258.41096deg);
+  -o-transform: rotate(258.41096deg);
+  transform: rotate(258.41096deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day263 {
+  -webkit-transform: rotate(259.39726deg);
+  -moz-transform: rotate(259.39726deg);
+  -ms-transform: rotate(259.39726deg);
+  -o-transform: rotate(259.39726deg);
+  transform: rotate(259.39726deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day264 {
+  -webkit-transform: rotate(260.38356deg);
+  -moz-transform: rotate(260.38356deg);
+  -ms-transform: rotate(260.38356deg);
+  -o-transform: rotate(260.38356deg);
+  transform: rotate(260.38356deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day265 {
+  -webkit-transform: rotate(261.36986deg);
+  -moz-transform: rotate(261.36986deg);
+  -ms-transform: rotate(261.36986deg);
+  -o-transform: rotate(261.36986deg);
+  transform: rotate(261.36986deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day266 {
+  -webkit-transform: rotate(262.35616deg);
+  -moz-transform: rotate(262.35616deg);
+  -ms-transform: rotate(262.35616deg);
+  -o-transform: rotate(262.35616deg);
+  transform: rotate(262.35616deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day267 {
+  -webkit-transform: rotate(263.34247deg);
+  -moz-transform: rotate(263.34247deg);
+  -ms-transform: rotate(263.34247deg);
+  -o-transform: rotate(263.34247deg);
+  transform: rotate(263.34247deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day268 {
+  -webkit-transform: rotate(264.32877deg);
+  -moz-transform: rotate(264.32877deg);
+  -ms-transform: rotate(264.32877deg);
+  -o-transform: rotate(264.32877deg);
+  transform: rotate(264.32877deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day269 {
+  -webkit-transform: rotate(265.31507deg);
+  -moz-transform: rotate(265.31507deg);
+  -ms-transform: rotate(265.31507deg);
+  -o-transform: rotate(265.31507deg);
+  transform: rotate(265.31507deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day270 {
+  -webkit-transform: rotate(266.30137deg);
+  -moz-transform: rotate(266.30137deg);
+  -ms-transform: rotate(266.30137deg);
+  -o-transform: rotate(266.30137deg);
+  transform: rotate(266.30137deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day271 {
+  -webkit-transform: rotate(267.28767deg);
+  -moz-transform: rotate(267.28767deg);
+  -ms-transform: rotate(267.28767deg);
+  -o-transform: rotate(267.28767deg);
+  transform: rotate(267.28767deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day272 {
+  -webkit-transform: rotate(268.27397deg);
+  -moz-transform: rotate(268.27397deg);
+  -ms-transform: rotate(268.27397deg);
+  -o-transform: rotate(268.27397deg);
+  transform: rotate(268.27397deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day273 {
+  -webkit-transform: rotate(269.26027deg);
+  -moz-transform: rotate(269.26027deg);
+  -ms-transform: rotate(269.26027deg);
+  -o-transform: rotate(269.26027deg);
+  transform: rotate(269.26027deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day274 {
+  -webkit-transform: rotate(270.24658deg);
+  -moz-transform: rotate(270.24658deg);
+  -ms-transform: rotate(270.24658deg);
+  -o-transform: rotate(270.24658deg);
+  transform: rotate(270.24658deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day275 {
+  -webkit-transform: rotate(271.23288deg);
+  -moz-transform: rotate(271.23288deg);
+  -ms-transform: rotate(271.23288deg);
+  -o-transform: rotate(271.23288deg);
+  transform: rotate(271.23288deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day276 {
+  -webkit-transform: rotate(272.21918deg);
+  -moz-transform: rotate(272.21918deg);
+  -ms-transform: rotate(272.21918deg);
+  -o-transform: rotate(272.21918deg);
+  transform: rotate(272.21918deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day277 {
+  -webkit-transform: rotate(273.20548deg);
+  -moz-transform: rotate(273.20548deg);
+  -ms-transform: rotate(273.20548deg);
+  -o-transform: rotate(273.20548deg);
+  transform: rotate(273.20548deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day278 {
+  -webkit-transform: rotate(274.19178deg);
+  -moz-transform: rotate(274.19178deg);
+  -ms-transform: rotate(274.19178deg);
+  -o-transform: rotate(274.19178deg);
+  transform: rotate(274.19178deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day279 {
+  -webkit-transform: rotate(275.17808deg);
+  -moz-transform: rotate(275.17808deg);
+  -ms-transform: rotate(275.17808deg);
+  -o-transform: rotate(275.17808deg);
+  transform: rotate(275.17808deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day280 {
+  -webkit-transform: rotate(276.16438deg);
+  -moz-transform: rotate(276.16438deg);
+  -ms-transform: rotate(276.16438deg);
+  -o-transform: rotate(276.16438deg);
+  transform: rotate(276.16438deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day281 {
+  -webkit-transform: rotate(277.15068deg);
+  -moz-transform: rotate(277.15068deg);
+  -ms-transform: rotate(277.15068deg);
+  -o-transform: rotate(277.15068deg);
+  transform: rotate(277.15068deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day282 {
+  -webkit-transform: rotate(278.13699deg);
+  -moz-transform: rotate(278.13699deg);
+  -ms-transform: rotate(278.13699deg);
+  -o-transform: rotate(278.13699deg);
+  transform: rotate(278.13699deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day283 {
+  -webkit-transform: rotate(279.12329deg);
+  -moz-transform: rotate(279.12329deg);
+  -ms-transform: rotate(279.12329deg);
+  -o-transform: rotate(279.12329deg);
+  transform: rotate(279.12329deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day284 {
+  -webkit-transform: rotate(280.10959deg);
+  -moz-transform: rotate(280.10959deg);
+  -ms-transform: rotate(280.10959deg);
+  -o-transform: rotate(280.10959deg);
+  transform: rotate(280.10959deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day285 {
+  -webkit-transform: rotate(281.09589deg);
+  -moz-transform: rotate(281.09589deg);
+  -ms-transform: rotate(281.09589deg);
+  -o-transform: rotate(281.09589deg);
+  transform: rotate(281.09589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day286 {
+  -webkit-transform: rotate(282.08219deg);
+  -moz-transform: rotate(282.08219deg);
+  -ms-transform: rotate(282.08219deg);
+  -o-transform: rotate(282.08219deg);
+  transform: rotate(282.08219deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day287 {
+  -webkit-transform: rotate(283.06849deg);
+  -moz-transform: rotate(283.06849deg);
+  -ms-transform: rotate(283.06849deg);
+  -o-transform: rotate(283.06849deg);
+  transform: rotate(283.06849deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day288 {
+  -webkit-transform: rotate(284.05479deg);
+  -moz-transform: rotate(284.05479deg);
+  -ms-transform: rotate(284.05479deg);
+  -o-transform: rotate(284.05479deg);
+  transform: rotate(284.05479deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day289 {
+  -webkit-transform: rotate(285.0411deg);
+  -moz-transform: rotate(285.0411deg);
+  -ms-transform: rotate(285.0411deg);
+  -o-transform: rotate(285.0411deg);
+  transform: rotate(285.0411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day290 {
+  -webkit-transform: rotate(286.0274deg);
+  -moz-transform: rotate(286.0274deg);
+  -ms-transform: rotate(286.0274deg);
+  -o-transform: rotate(286.0274deg);
+  transform: rotate(286.0274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day291 {
+  -webkit-transform: rotate(287.0137deg);
+  -moz-transform: rotate(287.0137deg);
+  -ms-transform: rotate(287.0137deg);
+  -o-transform: rotate(287.0137deg);
+  transform: rotate(287.0137deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day292 {
+  -webkit-transform: rotate(288deg);
+  -moz-transform: rotate(288deg);
+  -ms-transform: rotate(288deg);
+  -o-transform: rotate(288deg);
+  transform: rotate(288deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day293 {
+  -webkit-transform: rotate(288.9863deg);
+  -moz-transform: rotate(288.9863deg);
+  -ms-transform: rotate(288.9863deg);
+  -o-transform: rotate(288.9863deg);
+  transform: rotate(288.9863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day294 {
+  -webkit-transform: rotate(289.9726deg);
+  -moz-transform: rotate(289.9726deg);
+  -ms-transform: rotate(289.9726deg);
+  -o-transform: rotate(289.9726deg);
+  transform: rotate(289.9726deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day295 {
+  -webkit-transform: rotate(290.9589deg);
+  -moz-transform: rotate(290.9589deg);
+  -ms-transform: rotate(290.9589deg);
+  -o-transform: rotate(290.9589deg);
+  transform: rotate(290.9589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day296 {
+  -webkit-transform: rotate(291.94521deg);
+  -moz-transform: rotate(291.94521deg);
+  -ms-transform: rotate(291.94521deg);
+  -o-transform: rotate(291.94521deg);
+  transform: rotate(291.94521deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day297 {
+  -webkit-transform: rotate(292.93151deg);
+  -moz-transform: rotate(292.93151deg);
+  -ms-transform: rotate(292.93151deg);
+  -o-transform: rotate(292.93151deg);
+  transform: rotate(292.93151deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day298 {
+  -webkit-transform: rotate(293.91781deg);
+  -moz-transform: rotate(293.91781deg);
+  -ms-transform: rotate(293.91781deg);
+  -o-transform: rotate(293.91781deg);
+  transform: rotate(293.91781deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day299 {
+  -webkit-transform: rotate(294.90411deg);
+  -moz-transform: rotate(294.90411deg);
+  -ms-transform: rotate(294.90411deg);
+  -o-transform: rotate(294.90411deg);
+  transform: rotate(294.90411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day300 {
+  -webkit-transform: rotate(295.89041deg);
+  -moz-transform: rotate(295.89041deg);
+  -ms-transform: rotate(295.89041deg);
+  -o-transform: rotate(295.89041deg);
+  transform: rotate(295.89041deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day301 {
+  -webkit-transform: rotate(296.87671deg);
+  -moz-transform: rotate(296.87671deg);
+  -ms-transform: rotate(296.87671deg);
+  -o-transform: rotate(296.87671deg);
+  transform: rotate(296.87671deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day302 {
+  -webkit-transform: rotate(297.86301deg);
+  -moz-transform: rotate(297.86301deg);
+  -ms-transform: rotate(297.86301deg);
+  -o-transform: rotate(297.86301deg);
+  transform: rotate(297.86301deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day303 {
+  -webkit-transform: rotate(298.84932deg);
+  -moz-transform: rotate(298.84932deg);
+  -ms-transform: rotate(298.84932deg);
+  -o-transform: rotate(298.84932deg);
+  transform: rotate(298.84932deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day304 {
+  -webkit-transform: rotate(299.83562deg);
+  -moz-transform: rotate(299.83562deg);
+  -ms-transform: rotate(299.83562deg);
+  -o-transform: rotate(299.83562deg);
+  transform: rotate(299.83562deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day305 {
+  -webkit-transform: rotate(300.82192deg);
+  -moz-transform: rotate(300.82192deg);
+  -ms-transform: rotate(300.82192deg);
+  -o-transform: rotate(300.82192deg);
+  transform: rotate(300.82192deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day306 {
+  -webkit-transform: rotate(301.80822deg);
+  -moz-transform: rotate(301.80822deg);
+  -ms-transform: rotate(301.80822deg);
+  -o-transform: rotate(301.80822deg);
+  transform: rotate(301.80822deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day307 {
+  -webkit-transform: rotate(302.79452deg);
+  -moz-transform: rotate(302.79452deg);
+  -ms-transform: rotate(302.79452deg);
+  -o-transform: rotate(302.79452deg);
+  transform: rotate(302.79452deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day308 {
+  -webkit-transform: rotate(303.78082deg);
+  -moz-transform: rotate(303.78082deg);
+  -ms-transform: rotate(303.78082deg);
+  -o-transform: rotate(303.78082deg);
+  transform: rotate(303.78082deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day309 {
+  -webkit-transform: rotate(304.76712deg);
+  -moz-transform: rotate(304.76712deg);
+  -ms-transform: rotate(304.76712deg);
+  -o-transform: rotate(304.76712deg);
+  transform: rotate(304.76712deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day310 {
+  -webkit-transform: rotate(305.75342deg);
+  -moz-transform: rotate(305.75342deg);
+  -ms-transform: rotate(305.75342deg);
+  -o-transform: rotate(305.75342deg);
+  transform: rotate(305.75342deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day311 {
+  -webkit-transform: rotate(306.73973deg);
+  -moz-transform: rotate(306.73973deg);
+  -ms-transform: rotate(306.73973deg);
+  -o-transform: rotate(306.73973deg);
+  transform: rotate(306.73973deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day312 {
+  -webkit-transform: rotate(307.72603deg);
+  -moz-transform: rotate(307.72603deg);
+  -ms-transform: rotate(307.72603deg);
+  -o-transform: rotate(307.72603deg);
+  transform: rotate(307.72603deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day313 {
+  -webkit-transform: rotate(308.71233deg);
+  -moz-transform: rotate(308.71233deg);
+  -ms-transform: rotate(308.71233deg);
+  -o-transform: rotate(308.71233deg);
+  transform: rotate(308.71233deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day314 {
+  -webkit-transform: rotate(309.69863deg);
+  -moz-transform: rotate(309.69863deg);
+  -ms-transform: rotate(309.69863deg);
+  -o-transform: rotate(309.69863deg);
+  transform: rotate(309.69863deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day315 {
+  -webkit-transform: rotate(310.68493deg);
+  -moz-transform: rotate(310.68493deg);
+  -ms-transform: rotate(310.68493deg);
+  -o-transform: rotate(310.68493deg);
+  transform: rotate(310.68493deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day316 {
+  -webkit-transform: rotate(311.67123deg);
+  -moz-transform: rotate(311.67123deg);
+  -ms-transform: rotate(311.67123deg);
+  -o-transform: rotate(311.67123deg);
+  transform: rotate(311.67123deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day317 {
+  -webkit-transform: rotate(312.65753deg);
+  -moz-transform: rotate(312.65753deg);
+  -ms-transform: rotate(312.65753deg);
+  -o-transform: rotate(312.65753deg);
+  transform: rotate(312.65753deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day318 {
+  -webkit-transform: rotate(313.64384deg);
+  -moz-transform: rotate(313.64384deg);
+  -ms-transform: rotate(313.64384deg);
+  -o-transform: rotate(313.64384deg);
+  transform: rotate(313.64384deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day319 {
+  -webkit-transform: rotate(314.63014deg);
+  -moz-transform: rotate(314.63014deg);
+  -ms-transform: rotate(314.63014deg);
+  -o-transform: rotate(314.63014deg);
+  transform: rotate(314.63014deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day320 {
+  -webkit-transform: rotate(315.61644deg);
+  -moz-transform: rotate(315.61644deg);
+  -ms-transform: rotate(315.61644deg);
+  -o-transform: rotate(315.61644deg);
+  transform: rotate(315.61644deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day321 {
+  -webkit-transform: rotate(316.60274deg);
+  -moz-transform: rotate(316.60274deg);
+  -ms-transform: rotate(316.60274deg);
+  -o-transform: rotate(316.60274deg);
+  transform: rotate(316.60274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day322 {
+  -webkit-transform: rotate(317.58904deg);
+  -moz-transform: rotate(317.58904deg);
+  -ms-transform: rotate(317.58904deg);
+  -o-transform: rotate(317.58904deg);
+  transform: rotate(317.58904deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day323 {
+  -webkit-transform: rotate(318.57534deg);
+  -moz-transform: rotate(318.57534deg);
+  -ms-transform: rotate(318.57534deg);
+  -o-transform: rotate(318.57534deg);
+  transform: rotate(318.57534deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day324 {
+  -webkit-transform: rotate(319.56164deg);
+  -moz-transform: rotate(319.56164deg);
+  -ms-transform: rotate(319.56164deg);
+  -o-transform: rotate(319.56164deg);
+  transform: rotate(319.56164deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day325 {
+  -webkit-transform: rotate(320.54795deg);
+  -moz-transform: rotate(320.54795deg);
+  -ms-transform: rotate(320.54795deg);
+  -o-transform: rotate(320.54795deg);
+  transform: rotate(320.54795deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day326 {
+  -webkit-transform: rotate(321.53425deg);
+  -moz-transform: rotate(321.53425deg);
+  -ms-transform: rotate(321.53425deg);
+  -o-transform: rotate(321.53425deg);
+  transform: rotate(321.53425deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day327 {
+  -webkit-transform: rotate(322.52055deg);
+  -moz-transform: rotate(322.52055deg);
+  -ms-transform: rotate(322.52055deg);
+  -o-transform: rotate(322.52055deg);
+  transform: rotate(322.52055deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day328 {
+  -webkit-transform: rotate(323.50685deg);
+  -moz-transform: rotate(323.50685deg);
+  -ms-transform: rotate(323.50685deg);
+  -o-transform: rotate(323.50685deg);
+  transform: rotate(323.50685deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day329 {
+  -webkit-transform: rotate(324.49315deg);
+  -moz-transform: rotate(324.49315deg);
+  -ms-transform: rotate(324.49315deg);
+  -o-transform: rotate(324.49315deg);
+  transform: rotate(324.49315deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day330 {
+  -webkit-transform: rotate(325.47945deg);
+  -moz-transform: rotate(325.47945deg);
+  -ms-transform: rotate(325.47945deg);
+  -o-transform: rotate(325.47945deg);
+  transform: rotate(325.47945deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day331 {
+  -webkit-transform: rotate(326.46575deg);
+  -moz-transform: rotate(326.46575deg);
+  -ms-transform: rotate(326.46575deg);
+  -o-transform: rotate(326.46575deg);
+  transform: rotate(326.46575deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day332 {
+  -webkit-transform: rotate(327.45205deg);
+  -moz-transform: rotate(327.45205deg);
+  -ms-transform: rotate(327.45205deg);
+  -o-transform: rotate(327.45205deg);
+  transform: rotate(327.45205deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day333 {
+  -webkit-transform: rotate(328.43836deg);
+  -moz-transform: rotate(328.43836deg);
+  -ms-transform: rotate(328.43836deg);
+  -o-transform: rotate(328.43836deg);
+  transform: rotate(328.43836deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day334 {
+  -webkit-transform: rotate(329.42466deg);
+  -moz-transform: rotate(329.42466deg);
+  -ms-transform: rotate(329.42466deg);
+  -o-transform: rotate(329.42466deg);
+  transform: rotate(329.42466deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day335 {
+  -webkit-transform: rotate(330.41096deg);
+  -moz-transform: rotate(330.41096deg);
+  -ms-transform: rotate(330.41096deg);
+  -o-transform: rotate(330.41096deg);
+  transform: rotate(330.41096deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day336 {
+  -webkit-transform: rotate(331.39726deg);
+  -moz-transform: rotate(331.39726deg);
+  -ms-transform: rotate(331.39726deg);
+  -o-transform: rotate(331.39726deg);
+  transform: rotate(331.39726deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day337 {
+  -webkit-transform: rotate(332.38356deg);
+  -moz-transform: rotate(332.38356deg);
+  -ms-transform: rotate(332.38356deg);
+  -o-transform: rotate(332.38356deg);
+  transform: rotate(332.38356deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day338 {
+  -webkit-transform: rotate(333.36986deg);
+  -moz-transform: rotate(333.36986deg);
+  -ms-transform: rotate(333.36986deg);
+  -o-transform: rotate(333.36986deg);
+  transform: rotate(333.36986deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day339 {
+  -webkit-transform: rotate(334.35616deg);
+  -moz-transform: rotate(334.35616deg);
+  -ms-transform: rotate(334.35616deg);
+  -o-transform: rotate(334.35616deg);
+  transform: rotate(334.35616deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day340 {
+  -webkit-transform: rotate(335.34247deg);
+  -moz-transform: rotate(335.34247deg);
+  -ms-transform: rotate(335.34247deg);
+  -o-transform: rotate(335.34247deg);
+  transform: rotate(335.34247deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day341 {
+  -webkit-transform: rotate(336.32877deg);
+  -moz-transform: rotate(336.32877deg);
+  -ms-transform: rotate(336.32877deg);
+  -o-transform: rotate(336.32877deg);
+  transform: rotate(336.32877deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day342 {
+  -webkit-transform: rotate(337.31507deg);
+  -moz-transform: rotate(337.31507deg);
+  -ms-transform: rotate(337.31507deg);
+  -o-transform: rotate(337.31507deg);
+  transform: rotate(337.31507deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day343 {
+  -webkit-transform: rotate(338.30137deg);
+  -moz-transform: rotate(338.30137deg);
+  -ms-transform: rotate(338.30137deg);
+  -o-transform: rotate(338.30137deg);
+  transform: rotate(338.30137deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day344 {
+  -webkit-transform: rotate(339.28767deg);
+  -moz-transform: rotate(339.28767deg);
+  -ms-transform: rotate(339.28767deg);
+  -o-transform: rotate(339.28767deg);
+  transform: rotate(339.28767deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day345 {
+  -webkit-transform: rotate(340.27397deg);
+  -moz-transform: rotate(340.27397deg);
+  -ms-transform: rotate(340.27397deg);
+  -o-transform: rotate(340.27397deg);
+  transform: rotate(340.27397deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day346 {
+  -webkit-transform: rotate(341.26027deg);
+  -moz-transform: rotate(341.26027deg);
+  -ms-transform: rotate(341.26027deg);
+  -o-transform: rotate(341.26027deg);
+  transform: rotate(341.26027deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day347 {
+  -webkit-transform: rotate(342.24658deg);
+  -moz-transform: rotate(342.24658deg);
+  -ms-transform: rotate(342.24658deg);
+  -o-transform: rotate(342.24658deg);
+  transform: rotate(342.24658deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day348 {
+  -webkit-transform: rotate(343.23288deg);
+  -moz-transform: rotate(343.23288deg);
+  -ms-transform: rotate(343.23288deg);
+  -o-transform: rotate(343.23288deg);
+  transform: rotate(343.23288deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day349 {
+  -webkit-transform: rotate(344.21918deg);
+  -moz-transform: rotate(344.21918deg);
+  -ms-transform: rotate(344.21918deg);
+  -o-transform: rotate(344.21918deg);
+  transform: rotate(344.21918deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day350 {
+  -webkit-transform: rotate(345.20548deg);
+  -moz-transform: rotate(345.20548deg);
+  -ms-transform: rotate(345.20548deg);
+  -o-transform: rotate(345.20548deg);
+  transform: rotate(345.20548deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day351 {
+  -webkit-transform: rotate(346.19178deg);
+  -moz-transform: rotate(346.19178deg);
+  -ms-transform: rotate(346.19178deg);
+  -o-transform: rotate(346.19178deg);
+  transform: rotate(346.19178deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day352 {
+  -webkit-transform: rotate(347.17808deg);
+  -moz-transform: rotate(347.17808deg);
+  -ms-transform: rotate(347.17808deg);
+  -o-transform: rotate(347.17808deg);
+  transform: rotate(347.17808deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day353 {
+  -webkit-transform: rotate(348.16438deg);
+  -moz-transform: rotate(348.16438deg);
+  -ms-transform: rotate(348.16438deg);
+  -o-transform: rotate(348.16438deg);
+  transform: rotate(348.16438deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day354 {
+  -webkit-transform: rotate(349.15068deg);
+  -moz-transform: rotate(349.15068deg);
+  -ms-transform: rotate(349.15068deg);
+  -o-transform: rotate(349.15068deg);
+  transform: rotate(349.15068deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day355 {
+  -webkit-transform: rotate(350.13699deg);
+  -moz-transform: rotate(350.13699deg);
+  -ms-transform: rotate(350.13699deg);
+  -o-transform: rotate(350.13699deg);
+  transform: rotate(350.13699deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day356 {
+  -webkit-transform: rotate(351.12329deg);
+  -moz-transform: rotate(351.12329deg);
+  -ms-transform: rotate(351.12329deg);
+  -o-transform: rotate(351.12329deg);
+  transform: rotate(351.12329deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day357 {
+  -webkit-transform: rotate(352.10959deg);
+  -moz-transform: rotate(352.10959deg);
+  -ms-transform: rotate(352.10959deg);
+  -o-transform: rotate(352.10959deg);
+  transform: rotate(352.10959deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day358 {
+  -webkit-transform: rotate(353.09589deg);
+  -moz-transform: rotate(353.09589deg);
+  -ms-transform: rotate(353.09589deg);
+  -o-transform: rotate(353.09589deg);
+  transform: rotate(353.09589deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day359 {
+  -webkit-transform: rotate(354.08219deg);
+  -moz-transform: rotate(354.08219deg);
+  -ms-transform: rotate(354.08219deg);
+  -o-transform: rotate(354.08219deg);
+  transform: rotate(354.08219deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day360 {
+  -webkit-transform: rotate(355.06849deg);
+  -moz-transform: rotate(355.06849deg);
+  -ms-transform: rotate(355.06849deg);
+  -o-transform: rotate(355.06849deg);
+  transform: rotate(355.06849deg);
+  z-index: 9;
+  background-color: red;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day361 {
+  -webkit-transform: rotate(356.05479deg);
+  -moz-transform: rotate(356.05479deg);
+  -ms-transform: rotate(356.05479deg);
+  -o-transform: rotate(356.05479deg);
+  transform: rotate(356.05479deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day362 {
+  -webkit-transform: rotate(357.0411deg);
+  -moz-transform: rotate(357.0411deg);
+  -ms-transform: rotate(357.0411deg);
+  -o-transform: rotate(357.0411deg);
+  transform: rotate(357.0411deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day363 {
+  -webkit-transform: rotate(358.0274deg);
+  -moz-transform: rotate(358.0274deg);
+  -ms-transform: rotate(358.0274deg);
+  -o-transform: rotate(358.0274deg);
+  transform: rotate(358.0274deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day364 {
+  -webkit-transform: rotate(359.0137deg);
+  -moz-transform: rotate(359.0137deg);
+  -ms-transform: rotate(359.0137deg);
+  -o-transform: rotate(359.0137deg);
+  transform: rotate(359.0137deg);
+  z-index: 9;
+  background-color: cyan;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000327}}
+.day#day365 {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000351}}
+#outer {
+  width: 100vh;
+  height: 100%;
+  border: 1px solid blue;
+  background-color: #eee;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_scss\/styles\/global\/_structure\.scss}line{font-family:\0000358}}
+#inner {
+  width: 75vh;
+  height: 75%;
+  margin-top: 12.5vh;
+  position: relative;
+  z-index: 5;
+  background-color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\000031}}
+nav#prototype {
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  position: fixed;
+  z-index: 9;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000310}}
+nav#prototype:hover ul {
+  height: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000314}}
+nav#prototype:hover div {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000319}}
+nav#prototype > * {
+  color: white;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.5);
+  font-size: .85em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000325}}
+nav#prototype div {
+  -webkit-transition: background-color 0.2s ease-in;
+  -moz-transition: background-color 0.2s ease-in;
+  transition: background-color 0.2s ease-in;
+  background-color: rgba(0, 0, 0, 0.38);
+  border-radius: 0 0 .5em .5em;
+  display: inline-block;
+  padding: 0 1em;
+  line-height: 2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000334}}
+nav#prototype ul {
+  background-color: black;
+  height: 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000341}}
+nav#prototype ul li {
+  margin: 0;
+  padding: .25em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000345}}
+nav#prototype ul li a {
+  padding: .25em .5em;
+  color: white;
+  font-size: 12pt;
+  margin: 0 1em;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/private\/var\/www\/htdocs\/layouts\/circal\/_orion\/styles\/_prototype\.scss}line{font-family:\0000352}}
+nav#prototype ul li a:hover {
+  text-decoration: underline;
 }

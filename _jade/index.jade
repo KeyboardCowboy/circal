@@ -15,5 +15,11 @@ append layout_links
 append header
 
 append main
+  #outer.disc
+    - for (var i = 1; i <= 365; ++i) {
+      div.day(id='day#{i}')
+    - }
+
+    #inner.disc
 
 append footer

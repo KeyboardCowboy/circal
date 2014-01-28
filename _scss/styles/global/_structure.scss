@@ -1,0 +1,67 @@
+$days: 365;
+
+html, body {
+  height: 100%;
+
+  #page, #main {
+    height: 100%;
+  }
+}
+
+.disc {
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.day {
+  height: 1px;
+  background-color: blue;
+  width: 50vh;
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+
+  @include transform-origin(right);
+
+  @for $i from 1 through $days {
+    &#day#{$i} {
+      @include transform(rotate(((360 / $days) * $i) + deg));
+
+      // Deliniate weeks
+      @if $i % 7 == 0 {
+        z-index: 9;
+        background-color: cyan;
+      }
+
+      // Deliniate months
+      @if $i % 30 == 0 {
+        z-index: 9;
+        background-color: red;
+      }
+
+      // Mark today
+      @if $i == 27 {
+        z-index: 9;
+        background-color: yellow;
+      }
+    }
+  }
+}
+
+#outer {
+  width: 100vh;
+  height: 100%;
+  border: 1px solid blue;
+  background-color: #eee;
+}
+
+#inner {
+  width: 75vh;
+  height: 75%;
+  margin-top: 12.5vh;
+
+  position: relative;
+  z-index: 5;
+
+  background-color: white;
+}
