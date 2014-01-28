@@ -25,18 +25,6 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_scss\/components\/_prototype.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_scss\/components\/_prototype.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/_prototype.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
     "\/_scss\/components\/_functions.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -46,6 +34,18 @@
       "outputStyle" : 1,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/css\/_functions.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
+    "\/_scss\/components\/_prototype.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_scss\/components\/_prototype.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/_prototype.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -105,18 +105,6 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_scss\/default.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_scss\/default.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/css\/default.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
     "\/_scss\/components\/_mixins.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -126,6 +114,18 @@
       "outputStyle" : 1,
       "shouldRunBless" : 1,
       "outputAbbreviatedPath" : "\/css\/_mixins.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
+    "\/_scss\/default.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_scss\/default.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/css\/default.css",
       "fileType" : 4,
       "debugStyle" : 2
     },

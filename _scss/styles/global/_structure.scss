@@ -1,4 +1,9 @@
 $days: 365;
+$month_names: ('Jan', 'Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
+$month_length: (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
+$mi: 1;
+$wi: 1;
+$mcount: 1;
 
 html, body {
   height: 100%;
@@ -14,29 +19,48 @@ html, body {
 }
 
 .day {
-  height: 1px;
-  background-color: blue;
+  height: 9px;
+  background-color: #ddd;
+  border-top: 1px solid white;
+  border-right: 2px solid red;
   width: 50vh;
   position: absolute;
   z-index: 2;
   top: 50%;
+  margin-left: 50vh;
 
-  @include transform-origin(right);
+  @include transform-origin(left);
 
   @for $i from 1 through $days {
     &#day#{$i} {
       @include transform(rotate(((360 / $days) * $i) + deg));
 
       // Deliniate weeks
-      @if $i % 7 == 0 {
+      /*@if $i % 7 == 0 {
         z-index: 9;
         background-color: cyan;
-      }
+
+        &:after {
+          content: "#{$wi}";
+          margin-left: 35vh;
+        }
+
+        $wi: $wi + 1;
+      }*/
 
       // Deliniate months
-      @if $i % 30 == 0 {
+      @if $i == $mcount {
         z-index: 9;
         background-color: red;
+        &:before {
+          margin-left: 12.5vh;
+          //margin-top: -1.5em;
+          display: block;
+          content: nth($month_names, $mi);
+        }
+
+        $mcount: $mcount + nth($month_length, $mi);
+        $mi: $mi + 1;
       }
 
       // Mark today
@@ -44,24 +68,45 @@ html, body {
         z-index: 9;
         background-color: yellow;
       }
+
+      // Mark range
+      @if $i >= 128 and $i <=132 {
+        background-color: green;
+      }
     }
   }
 }
 
 #outer {
   width: 100vh;
-  height: 100%;
-  border: 1px solid blue;
-  background-color: #eee;
+  height: 100vh;
+  //background-color: #eee;
+  position: relative;
+  z-index: 10;
 }
 
 #inner {
   width: 75vh;
-  height: 75%;
-  margin-top: 12.5vh;
+  height: 75vh;
+  //margin-top: 12.5vh;
 
   position: relative;
   z-index: 5;
 
   background-color: white;
+}
+
+#center {
+  width: 10vh;
+  height: 10vh;
+
+
+  top: (90/2) + vh;
+  left: (90/2) + vw;
+
+  position: absolute;
+  z-index: 11;
+
+  background-color: white;
+  border: 2px solid red;
 }
